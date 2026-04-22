@@ -1,0 +1,4295 @@
+const DASHBOARD_DATA = {
+  "a\u00f1os": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "ultimo_a\u00f1o": 2025,
+  "serie_anual": [
+    {
+      "a\u00f1o": 2011,
+      "total": 23139583.0,
+      "digital": 31951.0,
+      "pct_digital": 0.1
+    },
+    {
+      "a\u00f1o": 2012,
+      "total": 22602305.0,
+      "digital": 62103.0,
+      "pct_digital": 0.3
+    },
+    {
+      "a\u00f1o": 2013,
+      "total": 31527590.0,
+      "digital": 6515965.0,
+      "pct_digital": 20.7
+    },
+    {
+      "a\u00f1o": 2014,
+      "total": 37241139.0,
+      "digital": 8490941.0,
+      "pct_digital": 22.8
+    },
+    {
+      "a\u00f1o": 2015,
+      "total": 37533888.0,
+      "digital": 8774603.0,
+      "pct_digital": 23.4
+    },
+    {
+      "a\u00f1o": 2016,
+      "total": 32045635.0,
+      "digital": 7833867.0,
+      "pct_digital": 24.4
+    },
+    {
+      "a\u00f1o": 2017,
+      "total": 33787587.0,
+      "digital": 8563721.0,
+      "pct_digital": 25.3
+    },
+    {
+      "a\u00f1o": 2018,
+      "total": 36449531.0,
+      "digital": 8039293.0,
+      "pct_digital": 22.1
+    },
+    {
+      "a\u00f1o": 2019,
+      "total": 35764310.0,
+      "digital": 7610799.0,
+      "pct_digital": 21.3
+    },
+    {
+      "a\u00f1o": 2020,
+      "total": 32590890.0,
+      "digital": 6359860.0,
+      "pct_digital": 19.5
+    },
+    {
+      "a\u00f1o": 2021,
+      "total": 29446752.0,
+      "digital": 6725207.0,
+      "pct_digital": 22.8
+    },
+    {
+      "a\u00f1o": 2022,
+      "total": 30031275.0,
+      "digital": 7093486.0,
+      "pct_digital": 23.6
+    },
+    {
+      "a\u00f1o": 2023,
+      "total": 28608440.0,
+      "digital": 6975035.0,
+      "pct_digital": 24.4
+    },
+    {
+      "a\u00f1o": 2024,
+      "total": 33423113.0,
+      "digital": 7236440.0,
+      "pct_digital": 21.7
+    },
+    {
+      "a\u00f1o": 2025,
+      "total": 35595875.0,
+      "digital": 5028654.0,
+      "pct_digital": 14.1
+    }
+  ],
+  "medio_por_a\u00f1o": [
+    {
+      "a\u00f1o": 2011,
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 10023498.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 7388354.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 4813716.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 882064.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 31951.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 11521352.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 6167201.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 4157441.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 694208.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 31878.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 30225.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 13144507.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 9820466.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 5505341.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 1377750.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 914624.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 497575.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 169014.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 96000.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 2313.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 17805929.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 10251508.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 7323178.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 1077199.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 417504.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 256144.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 90564.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 17429.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 1684.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 18118243.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 9833563.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 7546896.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 1143511.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 408273.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 364864.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 84196.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 33632.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 710.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 15146417.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 8105116.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 6677177.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 1089451.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 507457.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 424321.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 67239.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 28457.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 15766891.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 8302718.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 7170019.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 1304484.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 763211.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 360686.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 89218.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 29041.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 1319.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 18145540.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 9011398.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 6139618.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 1763256.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 720010.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 463285.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 136419.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 70005.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 18601033.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 8790085.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 5235399.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 2093200.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 396501.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 321441.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 282200.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 40906.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 3545.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 17747656.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 7636222.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 4103683.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 1988321.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 445210.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 335415.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 267856.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 61362.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 5165.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 15357754.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 6434509.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 4229131.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 2249707.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 446530.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 390990.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 246369.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 85278.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 6484.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 15466512.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 6625953.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 4432202.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 2435274.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 422696.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 343550.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 226010.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 71371.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 7707.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 14829577.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 6058305.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 4258130.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 2441178.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 388476.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 289782.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 275727.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 54316.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 12949.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 18189951.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 7051487.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 4194543.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 2663873.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 578816.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 378024.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 283480.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 60149.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 22790.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 22966416.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 6893062.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 3100032.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 1333426.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 547270.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 414965.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 224843.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 53559.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 SMS / WhatsApp",
+      "estimacion": 47926.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 14376.0
+    }
+  ],
+  "delito_por_a\u00f1o": [
+    {
+      "a\u00f1o": 2011,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "estimacion": 5617621.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Fraude al consumidor",
+      "estimacion": 5485470.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "estimacion": 2369345.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Extorsi\u00f3n",
+      "estimacion": 1832944.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "estimacion": 1601746.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Robo / asalto en calle o transporte",
+      "estimacion": 1426278.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Amenazas",
+      "estimacion": 1182473.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Robo en otra forma",
+      "estimacion": 1010803.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Fraude bancario",
+      "estimacion": 1003742.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Secuestro",
+      "estimacion": 724127.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Robo total de veh\u00edculo",
+      "estimacion": 434786.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Violaci\u00f3n sexual",
+      "estimacion": 320138.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Lesiones f\u00edsicas",
+      "estimacion": 114500.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Hostigamiento / abuso sexual",
+      "estimacion": 15610.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "estimacion": 6633702.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Fraude al consumidor",
+      "estimacion": 4375640.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "estimacion": 2549418.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Extorsi\u00f3n",
+      "estimacion": 1752102.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "estimacion": 1726861.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Robo / asalto en calle o transporte",
+      "estimacion": 1108614.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Robo en otra forma",
+      "estimacion": 1102434.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Amenazas",
+      "estimacion": 927501.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Fraude bancario",
+      "estimacion": 832275.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Secuestro",
+      "estimacion": 740477.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Robo total de veh\u00edculo",
+      "estimacion": 611371.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Violaci\u00f3n sexual",
+      "estimacion": 101658.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Lesiones f\u00edsicas",
+      "estimacion": 98846.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Hostigamiento / abuso sexual",
+      "estimacion": 41406.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Robo / asalto en calle o transporte",
+      "estimacion": 7931693.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Extorsi\u00f3n",
+      "estimacion": 5994034.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "estimacion": 3758143.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "estimacion": 3340576.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Amenazas",
+      "estimacion": 2854710.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "estimacion": 2099285.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Fraude bancario",
+      "estimacion": 1325757.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Fraude al consumidor",
+      "estimacion": 1296842.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Lesiones f\u00edsicas",
+      "estimacion": 1087761.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Robo total de veh\u00edculo",
+      "estimacion": 622462.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Hostigamiento / abuso sexual",
+      "estimacion": 577716.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Robo en otra forma",
+      "estimacion": 396846.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Violaci\u00f3n sexual",
+      "estimacion": 89873.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Secuestro",
+      "estimacion": 89086.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Otro delito",
+      "estimacion": 62806.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Robo / asalto en calle o transporte",
+      "estimacion": 9787891.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Extorsi\u00f3n",
+      "estimacion": 7794040.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "estimacion": 4150876.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "estimacion": 3358372.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Amenazas",
+      "estimacion": 3031965.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "estimacion": 2141103.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Fraude al consumidor",
+      "estimacion": 1674891.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Fraude bancario",
+      "estimacion": 1494570.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Robo en otra forma",
+      "estimacion": 1213624.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Lesiones f\u00edsicas",
+      "estimacion": 1038026.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Hostigamiento / abuso sexual",
+      "estimacion": 682238.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Robo total de veh\u00edculo",
+      "estimacion": 601157.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Violaci\u00f3n sexual",
+      "estimacion": 97662.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Otro delito",
+      "estimacion": 88903.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Secuestro",
+      "estimacion": 85821.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Robo / asalto en calle o transporte",
+      "estimacion": 9631471.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Extorsi\u00f3n",
+      "estimacion": 7969585.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "estimacion": 3829856.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "estimacion": 3408567.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Amenazas",
+      "estimacion": 3324903.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "estimacion": 2050088.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Fraude bancario",
+      "estimacion": 1744375.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Fraude al consumidor",
+      "estimacion": 1698382.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Robo en otra forma",
+      "estimacion": 1192869.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Lesiones f\u00edsicas",
+      "estimacion": 1159244.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Hostigamiento / abuso sexual",
+      "estimacion": 745170.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Robo total de veh\u00edculo",
+      "estimacion": 545052.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Violaci\u00f3n sexual",
+      "estimacion": 90487.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Secuestro",
+      "estimacion": 79263.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Otro delito",
+      "estimacion": 64576.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Robo / asalto en calle o transporte",
+      "estimacion": 8252297.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Extorsi\u00f3n",
+      "estimacion": 7100878.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "estimacion": 2854511.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "estimacion": 2737485.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Amenazas",
+      "estimacion": 2340636.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "estimacion": 2061119.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Fraude bancario",
+      "estimacion": 1770824.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Fraude al consumidor",
+      "estimacion": 1454341.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Robo en otra forma",
+      "estimacion": 1088607.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Lesiones f\u00edsicas",
+      "estimacion": 1072610.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Hostigamiento / abuso sexual",
+      "estimacion": 629151.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Robo total de veh\u00edculo",
+      "estimacion": 452001.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Otro delito",
+      "estimacion": 89008.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Violaci\u00f3n sexual",
+      "estimacion": 76039.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Secuestro",
+      "estimacion": 66128.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Robo / asalto en calle o transporte",
+      "estimacion": 8052656.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Extorsi\u00f3n",
+      "estimacion": 7503477.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "estimacion": 3029486.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "estimacion": 2734911.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Amenazas",
+      "estimacion": 2409065.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Fraude bancario",
+      "estimacion": 2299660.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "estimacion": 2044594.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Fraude al consumidor",
+      "estimacion": 1606472.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Robo en otra forma",
+      "estimacion": 1578411.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Lesiones f\u00edsicas",
+      "estimacion": 968451.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Hostigamiento / abuso sexual",
+      "estimacion": 817975.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Robo total de veh\u00edculo",
+      "estimacion": 493727.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Otro delito",
+      "estimacion": 107844.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Secuestro",
+      "estimacion": 79864.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Violaci\u00f3n sexual",
+      "estimacion": 60994.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Robo / asalto en calle o transporte",
+      "estimacion": 9460924.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Extorsi\u00f3n",
+      "estimacion": 6590728.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "estimacion": 3206477.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Fraude bancario",
+      "estimacion": 2846379.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Amenazas",
+      "estimacion": 2837151.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "estimacion": 2835224.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "estimacion": 2343609.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Fraude al consumidor",
+      "estimacion": 1714304.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Robo en otra forma",
+      "estimacion": 1521317.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Hostigamiento / abuso sexual",
+      "estimacion": 1244240.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Lesiones f\u00edsicas",
+      "estimacion": 1004432.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Robo total de veh\u00edculo",
+      "estimacion": 626088.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Secuestro",
+      "estimacion": 85089.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Otro delito",
+      "estimacion": 67615.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Violaci\u00f3n sexual",
+      "estimacion": 65954.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Robo / asalto en calle o transporte",
+      "estimacion": 9415088.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Extorsi\u00f3n",
+      "estimacion": 5716346.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "estimacion": 3185166.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Amenazas",
+      "estimacion": 2842523.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Fraude bancario",
+      "estimacion": 2837208.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "estimacion": 2729220.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "estimacion": 2269882.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Fraude al consumidor",
+      "estimacion": 1878865.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Robo en otra forma",
+      "estimacion": 1650651.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Hostigamiento / abuso sexual",
+      "estimacion": 1322218.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Lesiones f\u00edsicas",
+      "estimacion": 1032059.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Robo total de veh\u00edculo",
+      "estimacion": 605817.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Otro delito",
+      "estimacion": 154509.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Violaci\u00f3n sexual",
+      "estimacion": 71020.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Secuestro",
+      "estimacion": 53738.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Robo / asalto en calle o transporte",
+      "estimacion": 8176991.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Extorsi\u00f3n",
+      "estimacion": 4617275.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Fraude bancario",
+      "estimacion": 2849823.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "estimacion": 2817066.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Amenazas",
+      "estimacion": 2779312.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Hostigamiento / abuso sexual",
+      "estimacion": 2374861.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "estimacion": 2317653.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "estimacion": 1855885.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Fraude al consumidor",
+      "estimacion": 1726996.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Lesiones f\u00edsicas",
+      "estimacion": 1102457.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Robo en otra forma",
+      "estimacion": 1022807.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Robo total de veh\u00edculo",
+      "estimacion": 645618.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Secuestro",
+      "estimacion": 107274.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Otro delito",
+      "estimacion": 100120.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Violaci\u00f3n sexual",
+      "estimacion": 96752.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Robo / asalto en calle o transporte",
+      "estimacion": 6230798.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Extorsi\u00f3n",
+      "estimacion": 4660898.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Fraude bancario",
+      "estimacion": 3200653.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Amenazas",
+      "estimacion": 2672001.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "estimacion": 2455282.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Fraude al consumidor",
+      "estimacion": 2131777.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "estimacion": 1807549.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "estimacion": 1698038.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Hostigamiento / abuso sexual",
+      "estimacion": 1541122.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Robo en otra forma",
+      "estimacion": 1397146.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Lesiones f\u00edsicas",
+      "estimacion": 928471.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Robo total de veh\u00edculo",
+      "estimacion": 473640.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Otro delito",
+      "estimacion": 115573.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Violaci\u00f3n sexual",
+      "estimacion": 79364.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Secuestro",
+      "estimacion": 54440.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Robo / asalto en calle o transporte",
+      "estimacion": 6012888.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Extorsi\u00f3n",
+      "estimacion": 4910206.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Fraude bancario",
+      "estimacion": 3180266.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Amenazas",
+      "estimacion": 2578845.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "estimacion": 2560965.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Fraude al consumidor",
+      "estimacion": 2215722.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Hostigamiento / abuso sexual",
+      "estimacion": 1998457.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "estimacion": 1906423.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "estimacion": 1689483.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Robo en otra forma",
+      "estimacion": 1273791.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Lesiones f\u00edsicas",
+      "estimacion": 1005025.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Robo total de veh\u00edculo",
+      "estimacion": 469082.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Violaci\u00f3n sexual",
+      "estimacion": 106955.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Otro delito",
+      "estimacion": 73970.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Secuestro",
+      "estimacion": 49197.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Robo / asalto en calle o transporte",
+      "estimacion": 5318660.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Extorsi\u00f3n",
+      "estimacion": 4726724.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Fraude bancario",
+      "estimacion": 3190116.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Amenazas",
+      "estimacion": 2757624.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "estimacion": 2244101.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Fraude al consumidor",
+      "estimacion": 2204174.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Hostigamiento / abuso sexual",
+      "estimacion": 1793600.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "estimacion": 1774162.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "estimacion": 1593137.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Robo en otra forma",
+      "estimacion": 1267294.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Lesiones f\u00edsicas",
+      "estimacion": 1017768.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Robo total de veh\u00edculo",
+      "estimacion": 446905.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Otro delito",
+      "estimacion": 122904.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Violaci\u00f3n sexual",
+      "estimacion": 94241.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Secuestro",
+      "estimacion": 57030.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Robo / asalto en calle o transporte",
+      "estimacion": 6136712.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Extorsi\u00f3n",
+      "estimacion": 4902122.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Fraude bancario",
+      "estimacion": 3587819.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Amenazas",
+      "estimacion": 3146232.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Fraude al consumidor",
+      "estimacion": 2959404.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "estimacion": 2741397.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Hostigamiento / abuso sexual",
+      "estimacion": 2285064.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "estimacion": 2139424.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "estimacion": 1637965.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Robo en otra forma",
+      "estimacion": 1513412.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Lesiones f\u00edsicas",
+      "estimacion": 1508588.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Robo total de veh\u00edculo",
+      "estimacion": 532701.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Otro delito",
+      "estimacion": 162768.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Violaci\u00f3n sexual",
+      "estimacion": 96946.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Secuestro",
+      "estimacion": 72559.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Robo / asalto en calle o transporte",
+      "estimacion": 5750434.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Extorsi\u00f3n",
+      "estimacion": 5719981.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Amenazas",
+      "estimacion": 4485971.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Fraude bancario",
+      "estimacion": 4012043.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Fraude al consumidor",
+      "estimacion": 3243646.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "estimacion": 2686135.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Hostigamiento / abuso sexual",
+      "estimacion": 2237310.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "estimacion": 2145654.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "estimacion": 1535043.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Lesiones f\u00edsicas",
+      "estimacion": 1523988.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Robo en otra forma",
+      "estimacion": 1236012.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Robo total de veh\u00edculo",
+      "estimacion": 526230.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Otro delito",
+      "estimacion": 250390.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Violaci\u00f3n sexual",
+      "estimacion": 167340.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Secuestro",
+      "estimacion": 75698.0
+    }
+  ],
+  "extorsion_por_a\u00f1o": [
+    {
+      "a\u00f1o": 2011,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 1832944.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 1752102.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 5505341.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 424316.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 40998.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 21066.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 2313.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 7323178.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 410180.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 43416.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 15582.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 1684.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 7546896.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 372127.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 34268.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 15584.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 710.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 6677177.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 394603.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 26780.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 2318.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 7170019.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 294430.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 29811.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 7898.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 1319.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 6139618.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 425104.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 19650.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 6356.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 5235399.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 380075.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 72542.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 24785.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 3545.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 4103683.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 423528.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 59496.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 25403.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 5165.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 4229131.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 371411.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 30393.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 23479.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 6484.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 4432202.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 420506.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 25357.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 24434.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 7707.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 4258130.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 384459.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 38674.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 32512.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 12949.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 4194543.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 571062.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 65529.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 48198.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 22790.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 3727459.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 982361.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 547270.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 414965.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "medio_etiqueta": "Tel\u00e9fono \u2014 SMS / WhatsApp",
+      "estimacion": 47926.0
+    }
+  ],
+  "breakdown_por_a\u00f1o": [
+    {
+      "a\u00f1o": 2011,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 5617621.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Fraude al consumidor",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 5485470.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 2369345.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 1832944.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 1601746.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Robo / asalto en calle o transporte",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1426278.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Amenazas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1182473.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Robo en otra forma",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1010803.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 882064.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Secuestro",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 724127.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Robo total de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 434786.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Violaci\u00f3n sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 320138.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Lesiones f\u00edsicas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 114500.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 69940.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 31951.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 19787.0
+    },
+    {
+      "a\u00f1o": 2011,
+      "delito": "Hostigamiento / abuso sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 15610.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 6633702.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Fraude al consumidor",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 4375640.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 2549418.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 1752102.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 1726861.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Robo / asalto en calle o transporte",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1108614.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Robo en otra forma",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1102434.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Amenazas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 927501.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Secuestro",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 740477.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 694208.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Robo total de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 611371.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Violaci\u00f3n sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 101658.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Lesiones f\u00edsicas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 98846.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Hostigamiento / abuso sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 41406.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 39459.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 36505.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 31878.0
+    },
+    {
+      "a\u00f1o": 2012,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 30225.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Robo / asalto en calle o transporte",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 7931693.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 5505341.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 3758143.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 3340576.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Amenazas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 2854710.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 2099285.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Lesiones f\u00edsicas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1087761.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Fraude al consumidor",
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 1041747.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 886084.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Robo total de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 622462.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Hostigamiento / abuso sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 577716.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 424316.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Robo en otra forma",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 396846.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 336003.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Fraude al consumidor",
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 127614.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Violaci\u00f3n sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 89873.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Secuestro",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 89086.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Otro delito",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 62806.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Fraude al consumidor",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 51248.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 41400.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 40998.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Fraude al consumidor",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 34999.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Fraude al consumidor",
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 28540.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 22011.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 21066.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 20256.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 20003.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Fraude al consumidor",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 12694.0
+    },
+    {
+      "a\u00f1o": 2013,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 2313.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Robo / asalto en calle o transporte",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 9787891.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 7323178.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 4150876.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 3358372.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Amenazas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 3031965.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 2141103.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Fraude al consumidor",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1674891.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Robo en otra forma",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1213624.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 1077199.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Lesiones f\u00edsicas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1038026.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Hostigamiento / abuso sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 682238.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Robo total de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 601157.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 410180.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 256144.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Violaci\u00f3n sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 97662.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 89326.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Otro delito",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 88903.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Secuestro",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 85821.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 47148.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 43416.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 17429.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 15582.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 7324.0
+    },
+    {
+      "a\u00f1o": 2014,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 1684.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Robo / asalto en calle o transporte",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 9631471.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 7546896.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 3829856.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 3408567.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Amenazas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 3324903.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 2050088.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Fraude al consumidor",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1698382.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Robo en otra forma",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1192869.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Lesiones f\u00edsicas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1159244.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 1143511.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Hostigamiento / abuso sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 745170.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Robo total de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 545052.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 372127.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 364864.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 116294.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Violaci\u00f3n sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 90487.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Secuestro",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 79263.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Otro delito",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 64576.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 49928.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 36146.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 34268.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 33632.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 15584.0
+    },
+    {
+      "a\u00f1o": 2015,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 710.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Robo / asalto en calle o transporte",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 8252297.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 6677177.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 2854511.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 2737485.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Amenazas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 2340636.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 2061119.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Fraude al consumidor",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1454341.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 1089451.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Robo en otra forma",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1088607.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Lesiones f\u00edsicas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1072610.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Hostigamiento / abuso sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 629151.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 507457.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Robo total de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 452001.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 394603.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Otro delito",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 89008.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Violaci\u00f3n sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 76039.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 75282.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Secuestro",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 66128.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 40459.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 29718.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 28457.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 26780.0
+    },
+    {
+      "a\u00f1o": 2016,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 2318.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Robo / asalto en calle o transporte",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 8052656.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 7170019.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 3029486.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 2734911.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Amenazas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 2409065.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 2044594.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Fraude al consumidor",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1606472.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Robo en otra forma",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1578411.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 1304484.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Lesiones f\u00edsicas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 968451.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Hostigamiento / abuso sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 817975.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 763211.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Robo total de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 493727.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 294430.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Otro delito",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 107844.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Secuestro",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 79864.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 77261.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 66256.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Violaci\u00f3n sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 60994.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 59407.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 29811.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 29041.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 7898.0
+    },
+    {
+      "a\u00f1o": 2017,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 1319.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Robo / asalto en calle o transporte",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 9460924.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 6139618.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 3206477.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Amenazas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 2837151.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 2835224.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 2343609.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 1763256.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Fraude al consumidor",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1714304.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Robo en otra forma",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1521317.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Hostigamiento / abuso sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1244240.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Lesiones f\u00edsicas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1004432.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 720010.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Robo total de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 626088.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 425104.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 138158.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 116769.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Secuestro",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 85089.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 70005.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Otro delito",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 67615.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Violaci\u00f3n sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 65954.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 38181.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 19650.0
+    },
+    {
+      "a\u00f1o": 2018,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 6356.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Robo / asalto en calle o transporte",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 9415088.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 5235399.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 3185166.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Amenazas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 2842523.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 2729220.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 2269882.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 2093200.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Fraude al consumidor",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1878865.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Robo en otra forma",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1650651.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Hostigamiento / abuso sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1322218.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Lesiones f\u00edsicas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1032059.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Robo total de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 605817.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 380075.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 321441.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 209658.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 155577.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Otro delito",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 154509.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 72542.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Violaci\u00f3n sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 71020.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Secuestro",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 53738.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 40906.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 24785.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 16426.0
+    },
+    {
+      "a\u00f1o": 2019,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 3545.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Robo / asalto en calle o transporte",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 8176991.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 4103683.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 2817066.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Amenazas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 2779312.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Hostigamiento / abuso sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 2374861.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 2317653.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 1988321.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 1855885.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Fraude al consumidor",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1726996.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Lesiones f\u00edsicas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1102457.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Robo en otra forma",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1022807.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Robo total de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 645618.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 423528.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 335415.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 234683.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 208360.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Secuestro",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 107274.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Otro delito",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 100120.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Violaci\u00f3n sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 96752.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 61362.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 59496.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 25403.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 21682.0
+    },
+    {
+      "a\u00f1o": 2020,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 5165.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Robo / asalto en calle o transporte",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 6230798.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 4229131.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Amenazas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 2672001.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 2455282.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 2249707.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Fraude al consumidor",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 2131777.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 1807549.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 1698038.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Hostigamiento / abuso sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1541122.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Robo en otra forma",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1397146.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Lesiones f\u00edsicas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 928471.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Robo total de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 473640.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 446530.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 371411.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 215976.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 183583.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Otro delito",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 115573.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 85278.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Violaci\u00f3n sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 79364.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Secuestro",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 54440.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 30393.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 23479.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 19579.0
+    },
+    {
+      "a\u00f1o": 2021,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 6484.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Robo / asalto en calle o transporte",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 6012888.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 4432202.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Amenazas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 2578845.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 2560965.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 2435274.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Fraude al consumidor",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 2215722.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Hostigamiento / abuso sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1998457.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 1906423.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 1689483.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Robo en otra forma",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1273791.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Lesiones f\u00edsicas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1005025.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Robo total de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 469082.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 420506.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 343550.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 201576.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 126305.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Violaci\u00f3n sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 106955.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Otro delito",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 73970.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 71371.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Secuestro",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 49197.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 25357.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 24434.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 7707.0
+    },
+    {
+      "a\u00f1o": 2022,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 2190.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Robo / asalto en calle o transporte",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 5318660.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 4258130.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Amenazas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 2757624.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 2441178.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 2244101.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Fraude al consumidor",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 2204174.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Hostigamiento / abuso sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1793600.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 1774162.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 1593137.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Robo en otra forma",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1267294.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Lesiones f\u00edsicas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1017768.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Robo total de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 446905.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 384459.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 289782.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 243215.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 157608.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Otro delito",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 122904.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Violaci\u00f3n sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 94241.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Secuestro",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 57030.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 54316.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 38674.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 32512.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 12949.0
+    },
+    {
+      "a\u00f1o": 2023,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 4017.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Robo / asalto en calle o transporte",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 6136712.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 4194543.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Amenazas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 3146232.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Fraude al consumidor",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 2959404.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 2741397.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 2663873.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Hostigamiento / abuso sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 2285064.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 2139424.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 1637965.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Robo en otra forma",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1513412.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Lesiones f\u00edsicas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1508588.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 571062.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Robo total de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 532701.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 329826.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 283480.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 242737.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Otro delito",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 162768.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Violaci\u00f3n sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 96946.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Secuestro",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 72559.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 65529.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 60149.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 48198.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 22790.0
+    },
+    {
+      "a\u00f1o": 2024,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 7754.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Robo / asalto en calle o transporte",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 5750434.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Amenazas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 4485971.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 3727459.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Fraude al consumidor",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 3243646.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Tel\u00e9fono (sin detalle)",
+      "estimacion": 3100032.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Robo de accesorios de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 2686135.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Hostigamiento / abuso sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 2237310.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Vandalismo / da\u00f1o a propiedad",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 2145654.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Robo a casa habitaci\u00f3n",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 1535043.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Lesiones f\u00edsicas",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1523988.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Robo en otra forma",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 1236012.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 982361.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Tel\u00e9fono \u2014 llamada de voz",
+      "estimacion": 547270.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Robo total de veh\u00edculo",
+      "medio_etiqueta": "No aplica (delito de hogar)",
+      "estimacion": 526230.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Presencial + seguimiento digital",
+      "estimacion": 414965.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Internet / redes sociales",
+      "estimacion": 351065.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 268168.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Otro delito",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 250390.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Correo / mensajer\u00eda f\u00edsica",
+      "estimacion": 224843.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Violaci\u00f3n sexual",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 167340.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Secuestro",
+      "medio_etiqueta": "Presencial (cara a cara)",
+      "estimacion": 75698.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Otro medio",
+      "estimacion": 53559.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Extorsi\u00f3n",
+      "medio_etiqueta": "Tel\u00e9fono \u2014 SMS / WhatsApp",
+      "estimacion": 47926.0
+    },
+    {
+      "a\u00f1o": 2025,
+      "delito": "Fraude bancario",
+      "medio_etiqueta": "Sin informaci\u00f3n",
+      "estimacion": 14376.0
+    }
+  ]
+};
