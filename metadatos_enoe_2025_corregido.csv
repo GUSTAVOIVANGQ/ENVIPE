@@ -1,0 +1,15 @@
+Tabla de datos: EMPLEO_ITE_FINAL,,,,
+Inicio de serie: Marzo 2005,,,,
+Fuente: INEGI,,,,
+Actualización: Trimestral,,,,
+,,,,
+Variable,Tipo,Descripción,Fuente,Ruta de acceso
+ANIO,Numérica,Año de la encuesta,ENOE / ENOEN https://www.inegi.org.mx/programas/enoe/15ymas/#datos_abiertos,Sección Datos abiertos > Descargar todos los archivos > Descargas > DescargaMasiva_1442026_183422.zip
+TRIM,Numérica,Trimestre,ENOE / ENOEN https://www.inegi.org.mx/programas/enoe/15ymas/#datos_abiertos,Sección Datos abiertos > Descargar todos los archivos > Descargas > DescargaMasiva_1442026_183422.zip
+SEXO,Categórica,Hombres o Mujeres,ENOE / ENOEN https://www.inegi.org.mx/programas/enoe/15ymas/#datos_abiertos,Sección Datos abiertos > Descargar todos los archivos > Descargas > DescargaMasiva_1442026_183422.zip
+FECHA,Numérica,Fecha de referencia en formato DD/MM/AAAA,ENOE / ENOEN https://www.inegi.org.mx/programas/enoe/15ymas/#datos_abiertos,Sección Datos abiertos > Descargar todos los archivos > Descargas > DescargaMasiva_1442026_183422.zip
+EMPLEO_TELECOM,Numérica,Número de empleados en Telecomunicaciones (SCIAN 517),ENOE / ENOEN https://www.inegi.org.mx/programas/enoe/15ymas/#datos_abiertos,Sección Datos abiertos > Descargar todos los archivos > Descargas > DescargaMasiva_1442026_183422.zip
+EMPLEO_RADIO,Numérica,Número de empleados en Radiodifusión (SCIAN 515),ENOE / ENOEN https://www.inegi.org.mx/programas/enoe/15ymas/#datos_abiertos,Sección Datos abiertos > Descargar todos los archivos > Descargas > DescargaMasiva_1442026_183422.zip
+,,,,
+"Para mayor información de la fuente y cálculo de las variables le invitamos a que visite el documento metadatos_enoe_2025.md o el “Manual de Definiciones de los Indicadores Estadísticos de Telecomunicaciones”, disponible en: ",,,,
+http://www.ift.org.mx/estadisticas/manuales-del-banco-de-informacion-de-telecomunicaciones,,,,

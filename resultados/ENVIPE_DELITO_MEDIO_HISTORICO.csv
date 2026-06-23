@@ -1,352 +1,59 @@
-﻿ANIO,TIPO_DELITO,MEDIO_COMISION,CATEGORIA_MEDIO,ESTIMACION_POBLACIONAL,REGISTROS_MUESTRA
-2011,Amenazas,Presencial,PRESENCIAL,1182473,980
-2011,Extorsión,Sin información,SIN INFORMACIÓN,1832944,1658
-2011,Fraude al consumidor,Sin información,SIN INFORMACIÓN,5485470,5067
-2011,Fraude bancario,Correo / mensajería física,OTRO MEDIO,882064,845
-2011,Fraude bancario,Sin información,SIN INFORMACIÓN,69940,75
-2011,Fraude bancario,Teléfono (sin especificar tipo),TELEFÓNICO,31951,23
-2011,Fraude bancario,Presencial,PRESENCIAL,19787,15
-2011,Hostigamiento / abuso sexual,Presencial,PRESENCIAL,15610,22
-2011,Lesiones físicas,Presencial,PRESENCIAL,114500,86
-2011,Robo / asalto en calle o transporte,Presencial,PRESENCIAL,1426278,1470
-2011,Robo a casa habitación,No aplica (delito de hogar),NO APLICA (HOGAR),5617621,4126
-2011,Robo de accesorios de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),2369345,5642
-2011,Robo en otra forma,Presencial,PRESENCIAL,1010803,942
-2011,Robo total de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),434786,1232
-2011,Secuestro,Presencial,PRESENCIAL,724127,580
-2011,Vandalismo / daño a propiedad,No aplica (delito de hogar),NO APLICA (HOGAR),1601746,4067
-2011,Violación sexual,Presencial,PRESENCIAL,320138,356
-2012,Amenazas,Presencial,PRESENCIAL,927501,1063
-2012,Extorsión,Sin información,SIN INFORMACIÓN,1752102,2294
-2012,Fraude al consumidor,Sin información,SIN INFORMACIÓN,4375640,5095
-2012,Fraude bancario,Correo / mensajería física,OTRO MEDIO,694208,931
-2012,Fraude bancario,Sin información,SIN INFORMACIÓN,39459,78
-2012,Fraude bancario,Presencial,PRESENCIAL,36505,36
-2012,Fraude bancario,Teléfono (sin especificar tipo),TELEFÓNICO,31878,33
-2012,Fraude bancario,Internet / redes sociales,INTERNET / DIGITAL,30225,29
-2012,Hostigamiento / abuso sexual,Presencial,PRESENCIAL,41406,74
-2012,Lesiones físicas,Presencial,PRESENCIAL,98846,81
-2012,Robo / asalto en calle o transporte,Presencial,PRESENCIAL,1108614,1227
-2012,Robo a casa habitación,No aplica (delito de hogar),NO APLICA (HOGAR),6633702,5066
-2012,Robo de accesorios de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),2549418,7316
-2012,Robo en otra forma,Presencial,PRESENCIAL,1102434,1407
-2012,Robo total de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),611371,1655
-2012,Secuestro,Presencial,PRESENCIAL,740477,790
-2012,Vandalismo / daño a propiedad,No aplica (delito de hogar),NO APLICA (HOGAR),1726861,5161
-2012,Violación sexual,Presencial,PRESENCIAL,101658,157
-2013,Amenazas,Presencial,PRESENCIAL,2854710,3038
-2013,Extorsión,Teléfono (sin especificar tipo),TELEFÓNICO,5505341,5811
-2013,Extorsión,Sin información,SIN INFORMACIÓN,424316,508
-2013,Extorsión,Internet / redes sociales,INTERNET / DIGITAL,40998,46
-2013,Extorsión,Presencial,PRESENCIAL,21066,19
-2013,Extorsión,Presencial con seguimiento digital,PRESENCIAL,2313,4
-2013,Fraude al consumidor,Correo / mensajería física,OTRO MEDIO,1041747,1377
-2013,Fraude al consumidor,Otro medio,OTRO MEDIO,127614,151
-2013,Fraude al consumidor,Sin información,SIN INFORMACIÓN,51248,61
-2013,Fraude al consumidor,Internet / redes sociales,INTERNET / DIGITAL,34999,45
-2013,Fraude al consumidor,Teléfono (sin especificar tipo),TELEFÓNICO,28540,54
-2013,Fraude al consumidor,Presencial,PRESENCIAL,12694,19
-2013,Fraude bancario,Teléfono (sin especificar tipo),TELEFÓNICO,886084,1146
-2013,Fraude bancario,Correo / mensajería física,OTRO MEDIO,336003,275
-2013,Fraude bancario,Otro medio,OTRO MEDIO,41400,41
-2013,Fraude bancario,Sin información,SIN INFORMACIÓN,22011,27
-2013,Fraude bancario,Presencial,PRESENCIAL,20256,28
-2013,Fraude bancario,Internet / redes sociales,INTERNET / DIGITAL,20003,34
-2013,Hostigamiento / abuso sexual,Presencial,PRESENCIAL,577716,485
-2013,Lesiones físicas,Presencial,PRESENCIAL,1087761,1012
-2013,Otro delito,Presencial,PRESENCIAL,62806,81
-2013,Robo / asalto en calle o transporte,Presencial,PRESENCIAL,7931693,5821
-2013,Robo a casa habitación,No aplica (delito de hogar),NO APLICA (HOGAR),2099285,6266
-2013,Robo de accesorios de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),3340576,8726
-2013,Robo en otra forma,Presencial,PRESENCIAL,396846,434
-2013,Robo total de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),622462,1588
-2013,Secuestro,Presencial,PRESENCIAL,89086,82
-2013,Vandalismo / daño a propiedad,No aplica (delito de hogar),NO APLICA (HOGAR),3758143,9857
-2013,Violación sexual,Presencial,PRESENCIAL,89873,81
-2014,Amenazas,Presencial,PRESENCIAL,3031965,3008
-2014,Extorsión,Teléfono (sin especificar tipo),TELEFÓNICO,7323178,5965
-2014,Extorsión,Sin información,SIN INFORMACIÓN,410180,360
-2014,Extorsión,Internet / redes sociales,INTERNET / DIGITAL,43416,31
-2014,Extorsión,Presencial,PRESENCIAL,15582,15
-2014,Extorsión,Presencial con seguimiento digital,PRESENCIAL,1684,2
-2014,Fraude al consumidor,Presencial,PRESENCIAL,1674891,1594
-2014,Fraude bancario,Teléfono (sin especificar tipo),TELEFÓNICO,1077199,976
-2014,Fraude bancario,Correo / mensajería física,OTRO MEDIO,256144,179
-2014,Fraude bancario,Presencial,PRESENCIAL,89326,70
-2014,Fraude bancario,Internet / redes sociales,INTERNET / DIGITAL,47148,43
-2014,Fraude bancario,Otro medio,OTRO MEDIO,17429,22
-2014,Fraude bancario,Sin información,SIN INFORMACIÓN,7324,10
-2014,Hostigamiento / abuso sexual,Presencial,PRESENCIAL,682238,575
-2014,Lesiones físicas,Presencial,PRESENCIAL,1038026,919
-2014,Otro delito,Presencial,PRESENCIAL,88903,120
-2014,Robo / asalto en calle o transporte,Presencial,PRESENCIAL,9787891,5424
-2014,Robo a casa habitación,No aplica (delito de hogar),NO APLICA (HOGAR),2141103,5804
-2014,Robo de accesorios de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),3358372,7349
-2014,Robo en otra forma,Presencial,PRESENCIAL,1213624,1455
-2014,Robo total de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),601157,1235
-2014,Secuestro,Presencial,PRESENCIAL,85821,76
-2014,Vandalismo / daño a propiedad,No aplica (delito de hogar),NO APLICA (HOGAR),4150876,8164
-2014,Violación sexual,Presencial,PRESENCIAL,97662,82
-2015,Amenazas,Presencial,PRESENCIAL,3324903,3022
-2015,Extorsión,Teléfono (sin especificar tipo),TELEFÓNICO,7546896,6671
-2015,Extorsión,Sin información,SIN INFORMACIÓN,372127,391
-2015,Extorsión,Internet / redes sociales,INTERNET / DIGITAL,34268,34
-2015,Extorsión,Presencial,PRESENCIAL,15584,16
-2015,Extorsión,Presencial con seguimiento digital,PRESENCIAL,710,1
-2015,Fraude al consumidor,Presencial,PRESENCIAL,1698382,1699
-2015,Fraude bancario,Teléfono (sin especificar tipo),TELEFÓNICO,1143511,1079
-2015,Fraude bancario,Correo / mensajería física,OTRO MEDIO,364864,253
-2015,Fraude bancario,Presencial,PRESENCIAL,116294,99
-2015,Fraude bancario,Internet / redes sociales,INTERNET / DIGITAL,49928,55
-2015,Fraude bancario,Sin información,SIN INFORMACIÓN,36146,19
-2015,Fraude bancario,Otro medio,OTRO MEDIO,33632,34
-2015,Hostigamiento / abuso sexual,Presencial,PRESENCIAL,745170,552
-2015,Lesiones físicas,Presencial,PRESENCIAL,1159244,950
-2015,Otro delito,Presencial,PRESENCIAL,64576,91
-2015,Robo / asalto en calle o transporte,Presencial,PRESENCIAL,9631471,5357
-2015,Robo a casa habitación,No aplica (delito de hogar),NO APLICA (HOGAR),2050088,5651
-2015,Robo de accesorios de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),3408567,7685
-2015,Robo en otra forma,Presencial,PRESENCIAL,1192869,1482
-2015,Robo total de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),545052,1131
-2015,Secuestro,Presencial,PRESENCIAL,79263,81
-2015,Vandalismo / daño a propiedad,No aplica (delito de hogar),NO APLICA (HOGAR),3829856,8279
-2015,Violación sexual,Presencial,PRESENCIAL,90487,67
-2016,Amenazas,Presencial,PRESENCIAL,2340636,2531
-2016,Extorsión,Teléfono (sin especificar tipo),TELEFÓNICO,6677177,6207
-2016,Extorsión,Sin información,SIN INFORMACIÓN,394603,410
-2016,Extorsión,Internet / redes sociales,INTERNET / DIGITAL,26780,31
-2016,Extorsión,Presencial,PRESENCIAL,2318,7
-2016,Fraude al consumidor,Presencial,PRESENCIAL,1454341,1623
-2016,Fraude bancario,Teléfono (sin especificar tipo),TELEFÓNICO,1089451,1069
-2016,Fraude bancario,Correo / mensajería física,OTRO MEDIO,507457,305
-2016,Fraude bancario,Presencial,PRESENCIAL,75282,73
-2016,Fraude bancario,Internet / redes sociales,INTERNET / DIGITAL,40459,42
-2016,Fraude bancario,Sin información,SIN INFORMACIÓN,29718,30
-2016,Fraude bancario,Otro medio,OTRO MEDIO,28457,31
-2016,Hostigamiento / abuso sexual,Presencial,PRESENCIAL,629151,561
-2016,Lesiones físicas,Presencial,PRESENCIAL,1072610,1134
-2016,Otro delito,Presencial,PRESENCIAL,89008,91
-2016,Robo / asalto en calle o transporte,Presencial,PRESENCIAL,8252297,4839
-2016,Robo a casa habitación,No aplica (delito de hogar),NO APLICA (HOGAR),2061119,5598
-2016,Robo de accesorios de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),2854511,6679
-2016,Robo en otra forma,Presencial,PRESENCIAL,1088607,1202
-2016,Robo total de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),452001,965
-2016,Secuestro,Presencial,PRESENCIAL,66128,63
-2016,Vandalismo / daño a propiedad,No aplica (delito de hogar),NO APLICA (HOGAR),2737485,6443
-2016,Violación sexual,Presencial,PRESENCIAL,76039,92
-2017,Amenazas,Presencial,PRESENCIAL,2409065,2742
-2017,Extorsión,Teléfono (sin especificar tipo),TELEFÓNICO,7170019,7008
-2017,Extorsión,Sin información,SIN INFORMACIÓN,294430,332
-2017,Extorsión,Internet / redes sociales,INTERNET / DIGITAL,29811,35
-2017,Extorsión,Presencial,PRESENCIAL,7898,9
-2017,Extorsión,Presencial con seguimiento digital,PRESENCIAL,1319,2
-2017,Fraude al consumidor,Presencial,PRESENCIAL,1606472,1799
-2017,Fraude bancario,Teléfono (sin especificar tipo),TELEFÓNICO,1304484,1429
-2017,Fraude bancario,Correo / mensajería física,OTRO MEDIO,763211,472
-2017,Fraude bancario,Presencial,PRESENCIAL,77261,83
-2017,Fraude bancario,Sin información,SIN INFORMACIÓN,66256,21
-2017,Fraude bancario,Internet / redes sociales,INTERNET / DIGITAL,59407,59
-2017,Fraude bancario,Otro medio,OTRO MEDIO,29041,23
-2017,Hostigamiento / abuso sexual,Presencial,PRESENCIAL,817975,707
-2017,Lesiones físicas,Presencial,PRESENCIAL,968451,982
-2017,Otro delito,Presencial,PRESENCIAL,107844,121
-2017,Robo / asalto en calle o transporte,Presencial,PRESENCIAL,8052656,5818
-2017,Robo a casa habitación,No aplica (delito de hogar),NO APLICA (HOGAR),2044594,5799
-2017,Robo de accesorios de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),3029486,7475
-2017,Robo en otra forma,Presencial,PRESENCIAL,1578411,1832
-2017,Robo total de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),493727,1106
-2017,Secuestro,Presencial,PRESENCIAL,79864,76
-2017,Vandalismo / daño a propiedad,No aplica (delito de hogar),NO APLICA (HOGAR),2734911,6618
-2017,Violación sexual,Presencial,PRESENCIAL,60994,82
-2018,Amenazas,Presencial,PRESENCIAL,2837151,2797
-2018,Extorsión,Teléfono (sin especificar tipo),TELEFÓNICO,6139618,6024
-2018,Extorsión,Sin información,SIN INFORMACIÓN,425104,342
-2018,Extorsión,Internet / redes sociales,INTERNET / DIGITAL,19650,30
-2018,Extorsión,Presencial,PRESENCIAL,6356,5
-2018,Fraude al consumidor,Presencial,PRESENCIAL,1714304,1980
-2018,Fraude bancario,Teléfono (sin especificar tipo),TELEFÓNICO,1763256,1797
-2018,Fraude bancario,Correo / mensajería física,OTRO MEDIO,720010,425
-2018,Fraude bancario,Presencial,PRESENCIAL,138158,101
-2018,Fraude bancario,Internet / redes sociales,INTERNET / DIGITAL,116769,111
-2018,Fraude bancario,Otro medio,OTRO MEDIO,70005,69
-2018,Fraude bancario,Sin información,SIN INFORMACIÓN,38181,22
-2018,Hostigamiento / abuso sexual,Presencial,PRESENCIAL,1244240,1037
-2018,Lesiones físicas,Presencial,PRESENCIAL,1004432,1048
-2018,Otro delito,Presencial,PRESENCIAL,67615,87
-2018,Robo / asalto en calle o transporte,Presencial,PRESENCIAL,9460924,6793
-2018,Robo a casa habitación,No aplica (delito de hogar),NO APLICA (HOGAR),2343609,6217
-2018,Robo de accesorios de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),3206477,7738
-2018,Robo en otra forma,Presencial,PRESENCIAL,1521317,1828
-2018,Robo total de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),626088,1385
-2018,Secuestro,Presencial,PRESENCIAL,85089,64
-2018,Vandalismo / daño a propiedad,No aplica (delito de hogar),NO APLICA (HOGAR),2835224,6692
-2018,Violación sexual,Presencial,PRESENCIAL,65954,82
-2019,Amenazas,Presencial,PRESENCIAL,2842523,2917
-2019,Extorsión,Teléfono (sin especificar tipo),TELEFÓNICO,5235399,5247
-2019,Extorsión,Sin información,SIN INFORMACIÓN,380075,402
-2019,Extorsión,Internet / redes sociales,INTERNET / DIGITAL,72542,50
-2019,Extorsión,Presencial,PRESENCIAL,24785,19
-2019,Extorsión,Presencial con seguimiento digital,PRESENCIAL,3545,4
-2019,Fraude al consumidor,Presencial,PRESENCIAL,1878865,1984
-2019,Fraude bancario,Teléfono (sin especificar tipo),TELEFÓNICO,2093200,2153
-2019,Fraude bancario,Correo / mensajería física,OTRO MEDIO,321441,333
-2019,Fraude bancario,Internet / redes sociales,INTERNET / DIGITAL,209658,198
-2019,Fraude bancario,Presencial,PRESENCIAL,155577,136
-2019,Fraude bancario,Otro medio,OTRO MEDIO,40906,30
-2019,Fraude bancario,Sin información,SIN INFORMACIÓN,16426,19
-2019,Hostigamiento / abuso sexual,Presencial,PRESENCIAL,1322218,997
-2019,Lesiones físicas,Presencial,PRESENCIAL,1032059,1007
-2019,Otro delito,Presencial,PRESENCIAL,154509,114
-2019,Robo / asalto en calle o transporte,Presencial,PRESENCIAL,9415088,6419
-2019,Robo a casa habitación,No aplica (delito de hogar),NO APLICA (HOGAR),2269882,6296
-2019,Robo de accesorios de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),3185166,7764
-2019,Robo en otra forma,Presencial,PRESENCIAL,1650651,1862
-2019,Robo total de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),605817,1443
-2019,Secuestro,Presencial,PRESENCIAL,53738,62
-2019,Vandalismo / daño a propiedad,No aplica (delito de hogar),NO APLICA (HOGAR),2729220,6808
-2019,Violación sexual,Presencial,PRESENCIAL,71020,92
-2020,Amenazas,Presencial,PRESENCIAL,2779312,2611
-2020,Extorsión,Teléfono (sin especificar tipo),TELEFÓNICO,4103683,3767
-2020,Extorsión,Sin información,SIN INFORMACIÓN,423528,376
-2020,Extorsión,Internet / redes sociales,INTERNET / DIGITAL,59496,45
-2020,Extorsión,Presencial,PRESENCIAL,25403,21
-2020,Extorsión,Presencial con seguimiento digital,PRESENCIAL,5165,3
-2020,Fraude al consumidor,Presencial,PRESENCIAL,1726996,1770
-2020,Fraude bancario,Teléfono (sin especificar tipo),TELEFÓNICO,1988321,1979
-2020,Fraude bancario,Correo / mensajería física,OTRO MEDIO,335415,211
-2020,Fraude bancario,Presencial,PRESENCIAL,234683,169
-2020,Fraude bancario,Internet / redes sociales,INTERNET / DIGITAL,208360,203
-2020,Fraude bancario,Otro medio,OTRO MEDIO,61362,71
-2020,Fraude bancario,Sin información,SIN INFORMACIÓN,21682,25
-2020,Hostigamiento / abuso sexual,Presencial,PRESENCIAL,2374861,1572
-2020,Lesiones físicas,Presencial,PRESENCIAL,1102457,961
-2020,Otro delito,Presencial,PRESENCIAL,100120,99
-2020,Robo / asalto en calle o transporte,Presencial,PRESENCIAL,8176991,5400
-2020,Robo a casa habitación,No aplica (delito de hogar),NO APLICA (HOGAR),1855885,4894
-2020,Robo de accesorios de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),2817066,6362
-2020,Robo en otra forma,Presencial,PRESENCIAL,1022807,1117
-2020,Robo total de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),645618,1303
-2020,Secuestro,Presencial,PRESENCIAL,107274,73
-2020,Vandalismo / daño a propiedad,No aplica (delito de hogar),NO APLICA (HOGAR),2317653,5441
-2020,Violación sexual,Presencial,PRESENCIAL,96752,102
-2021,Amenazas,Presencial,PRESENCIAL,2672001,2814
-2021,Extorsión,Teléfono (sin especificar tipo),TELEFÓNICO,4229131,4010
-2021,Extorsión,Sin información,SIN INFORMACIÓN,371411,362
-2021,Extorsión,Internet / redes sociales,INTERNET / DIGITAL,30393,33
-2021,Extorsión,Presencial,PRESENCIAL,23479,32
-2021,Extorsión,Presencial con seguimiento digital,PRESENCIAL,6484,9
-2021,Fraude al consumidor,Presencial,PRESENCIAL,2131777,2257
-2021,Fraude bancario,Teléfono (sin especificar tipo),TELEFÓNICO,2249707,2374
-2021,Fraude bancario,Correo / mensajería física,OTRO MEDIO,446530,244
-2021,Fraude bancario,Internet / redes sociales,INTERNET / DIGITAL,215976,227
-2021,Fraude bancario,Presencial,PRESENCIAL,183583,148
-2021,Fraude bancario,Otro medio,OTRO MEDIO,85278,99
-2021,Fraude bancario,Sin información,SIN INFORMACIÓN,19579,14
-2021,Hostigamiento / abuso sexual,Presencial,PRESENCIAL,1541122,1381
-2021,Lesiones físicas,Presencial,PRESENCIAL,928471,949
-2021,Otro delito,Presencial,PRESENCIAL,115573,123
-2021,Robo / asalto en calle o transporte,Presencial,PRESENCIAL,6230798,4554
-2021,Robo a casa habitación,No aplica (delito de hogar),NO APLICA (HOGAR),1698038,4552
-2021,Robo de accesorios de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),2455282,5769
-2021,Robo en otra forma,Presencial,PRESENCIAL,1397146,1535
-2021,Robo total de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),473640,997
-2021,Secuestro,Presencial,PRESENCIAL,54440,63
-2021,Vandalismo / daño a propiedad,No aplica (delito de hogar),NO APLICA (HOGAR),1807549,4515
-2021,Violación sexual,Presencial,PRESENCIAL,79364,95
-2022,Amenazas,Presencial,PRESENCIAL,2578845,2611
-2022,Extorsión,Teléfono (sin especificar tipo),TELEFÓNICO,4432202,4203
-2022,Extorsión,Sin información,SIN INFORMACIÓN,420506,339
-2022,Extorsión,Presencial,PRESENCIAL,25357,33
-2022,Extorsión,Internet / redes sociales,INTERNET / DIGITAL,24434,31
-2022,Extorsión,Presencial con seguimiento digital,PRESENCIAL,7707,6
-2022,Fraude al consumidor,Presencial,PRESENCIAL,2215722,2262
-2022,Fraude bancario,Teléfono (sin especificar tipo),TELEFÓNICO,2435274,2332
-2022,Fraude bancario,Correo / mensajería física,OTRO MEDIO,343550,233
-2022,Fraude bancario,Internet / redes sociales,INTERNET / DIGITAL,201576,211
-2022,Fraude bancario,Presencial,PRESENCIAL,126305,131
-2022,Fraude bancario,Otro medio,OTRO MEDIO,71371,66
-2022,Fraude bancario,Sin información,SIN INFORMACIÓN,2190,3
-2022,Hostigamiento / abuso sexual,Presencial,PRESENCIAL,1998457,1431
-2022,Lesiones físicas,Presencial,PRESENCIAL,1005025,939
-2022,Otro delito,Presencial,PRESENCIAL,73970,101
-2022,Robo / asalto en calle o transporte,Presencial,PRESENCIAL,6012888,4019
-2022,Robo a casa habitación,No aplica (delito de hogar),NO APLICA (HOGAR),1689483,4439
-2022,Robo de accesorios de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),2560965,5597
-2022,Robo en otra forma,Presencial,PRESENCIAL,1273791,1521
-2022,Robo total de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),469082,965
-2022,Secuestro,Presencial,PRESENCIAL,49197,58
-2022,Vandalismo / daño a propiedad,No aplica (delito de hogar),NO APLICA (HOGAR),1906423,4514
-2022,Violación sexual,Presencial,PRESENCIAL,106955,99
-2023,Amenazas,Presencial,PRESENCIAL,2757624,2778
-2023,Extorsión,Teléfono (sin especificar tipo),TELEFÓNICO,4258130,4116
-2023,Extorsión,Sin información,SIN INFORMACIÓN,384459,399
-2023,Extorsión,Presencial,PRESENCIAL,38674,44
-2023,Extorsión,Internet / redes sociales,INTERNET / DIGITAL,32512,44
-2023,Extorsión,Presencial con seguimiento digital,PRESENCIAL,12949,13
-2023,Fraude al consumidor,Presencial,PRESENCIAL,2204174,2299
-2023,Fraude bancario,Teléfono (sin especificar tipo),TELEFÓNICO,2441178,2452
-2023,Fraude bancario,Correo / mensajería física,OTRO MEDIO,289782,185
-2023,Fraude bancario,Internet / redes sociales,INTERNET / DIGITAL,243215,199
-2023,Fraude bancario,Presencial,PRESENCIAL,157608,154
-2023,Fraude bancario,Otro medio,OTRO MEDIO,54316,50
-2023,Fraude bancario,Sin información,SIN INFORMACIÓN,4017,6
-2023,Hostigamiento / abuso sexual,Presencial,PRESENCIAL,1793600,1538
-2023,Lesiones físicas,Presencial,PRESENCIAL,1017768,908
-2023,Otro delito,Presencial,PRESENCIAL,122904,150
-2023,Robo / asalto en calle o transporte,Presencial,PRESENCIAL,5318660,3819
-2023,Robo a casa habitación,No aplica (delito de hogar),NO APLICA (HOGAR),1593137,4134
-2023,Robo de accesorios de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),2244101,5133
-2023,Robo en otra forma,Presencial,PRESENCIAL,1267294,1471
-2023,Robo total de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),446905,925
-2023,Secuestro,Presencial,PRESENCIAL,57030,65
-2023,Vandalismo / daño a propiedad,No aplica (delito de hogar),NO APLICA (HOGAR),1774162,4147
-2023,Violación sexual,Presencial,PRESENCIAL,94241,106
-2024,Amenazas,Presencial,PRESENCIAL,3146232,2866
-2024,Extorsión,Teléfono (sin especificar tipo),TELEFÓNICO,4194543,3893
-2024,Extorsión,Sin información,SIN INFORMACIÓN,571062,442
-2024,Extorsión,Presencial,PRESENCIAL,65529,66
-2024,Extorsión,Internet / redes sociales,INTERNET / DIGITAL,48198,43
-2024,Extorsión,Presencial con seguimiento digital,PRESENCIAL,22790,24
-2024,Fraude al consumidor,Presencial,PRESENCIAL,2959404,2788
-2024,Fraude bancario,Teléfono (sin especificar tipo),TELEFÓNICO,2663873,2556
-2024,Fraude bancario,Internet / redes sociales,INTERNET / DIGITAL,329826,283
-2024,Fraude bancario,Correo / mensajería física,OTRO MEDIO,283480,166
-2024,Fraude bancario,Presencial,PRESENCIAL,242737,202
-2024,Fraude bancario,Otro medio,OTRO MEDIO,60149,66
-2024,Fraude bancario,Sin información,SIN INFORMACIÓN,7754,5
-2024,Hostigamiento / abuso sexual,Presencial,PRESENCIAL,2285064,1521
-2024,Lesiones físicas,Presencial,PRESENCIAL,1508588,1256
-2024,Otro delito,Presencial,PRESENCIAL,162768,154
-2024,Robo / asalto en calle o transporte,Presencial,PRESENCIAL,6136712,3951
-2024,Robo a casa habitación,No aplica (delito de hogar),NO APLICA (HOGAR),1637965,4084
-2024,Robo de accesorios de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),2741397,5712
-2024,Robo en otra forma,Presencial,PRESENCIAL,1513412,1608
-2024,Robo total de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),532701,1035
-2024,Secuestro,Presencial,PRESENCIAL,72559,67
-2024,Vandalismo / daño a propiedad,No aplica (delito de hogar),NO APLICA (HOGAR),2139424,4732
-2024,Violación sexual,Presencial,PRESENCIAL,96946,94
-2025,Amenazas,Presencial,PRESENCIAL,4485971,3942
-2025,Extorsión,Presencial,PRESENCIAL,3727459,3454
-2025,Extorsión,Internet / redes sociales,INTERNET / DIGITAL,982361,935
-2025,Extorsión,Teléfono (sin especificar tipo),TELEFÓNICO,496424,470
-2025,Extorsión,Presencial con seguimiento digital,PRESENCIAL,414965,386
-2025,Extorsión,Teléfono (llamada de voz),TELEFÓNICO,50846,44
-2025,Extorsión,Teléfono (SMS / WhatsApp / mensaje),TELEFÓNICO,47926,45
-2025,Fraude al consumidor,Presencial,PRESENCIAL,3243646,3070
-2025,Fraude bancario,Teléfono (sin especificar tipo),TELEFÓNICO,3100032,2967
-2025,Fraude bancario,Internet / redes sociales,INTERNET / DIGITAL,351065,323
-2025,Fraude bancario,Presencial,PRESENCIAL,268168,247
-2025,Fraude bancario,Correo / mensajería física,OTRO MEDIO,224843,169
-2025,Fraude bancario,Otro medio,OTRO MEDIO,53559,42
-2025,Fraude bancario,Sin información,SIN INFORMACIÓN,14376,6
-2025,Hostigamiento / abuso sexual,Presencial,PRESENCIAL,2237310,1606
-2025,Lesiones físicas,Presencial,PRESENCIAL,1523988,1316
-2025,Otro delito,Presencial,PRESENCIAL,250390,217
-2025,Robo / asalto en calle o transporte,Presencial,PRESENCIAL,5750434,4014
-2025,Robo a casa habitación,No aplica (delito de hogar),NO APLICA (HOGAR),1535043,3909
-2025,Robo de accesorios de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),2686135,5782
-2025,Robo en otra forma,Presencial,PRESENCIAL,1236012,1298
-2025,Robo total de vehículo,No aplica (delito de hogar),NO APLICA (HOGAR),526230,1028
-2025,Secuestro,Presencial,PRESENCIAL,75698,76
-2025,Vandalismo / daño a propiedad,No aplica (delito de hogar),NO APLICA (HOGAR),2145654,4799
-2025,Violación sexual,Presencial,PRESENCIAL,167340,135
+﻿ANIO,TIPO_DELITO,MEDIO_COMISION,ESTIMACION_POBLACIONAL,REGISTROS_MUESTRA,PORCENTAJE
+2012,Fraude bancario,Internet / redes sociales,64928,72,67.07
+2012,Fraude bancario,Teléfono (sin especificar tipo),31878,33,32.93
+2013,Extorsión,Teléfono (sin especificar tipo),5505341,5811,99.58
+2013,Extorsión,Internet / redes sociales,23379,23,0.42
+2013,Fraude al consumidor,Internet / redes sociales,1054815,1397,97.37
+2013,Fraude al consumidor,Teléfono (sin especificar tipo),28540,54,2.63
+2013,Fraude bancario,Teléfono (sin especificar tipo),886084,1146,90.43
+2013,Fraude bancario,Internet / redes sociales,93776,110,9.57
+2014,Extorsión,Teléfono (sin especificar tipo),7323178,5965,99.76
+2014,Extorsión,Internet / redes sociales,17266,17,0.24
+2014,Fraude bancario,Teléfono (sin especificar tipo),1077199,976,80.34
+2014,Fraude bancario,Internet / redes sociales,263634,197,19.66
+2015,Extorsión,Teléfono (sin especificar tipo),7546896,6671,99.78
+2015,Extorsión,Internet / redes sociales,16294,17,0.22
+2015,Fraude bancario,Teléfono (sin especificar tipo),1143511,1079,75.25
+2015,Fraude bancario,Internet / redes sociales,376059,291,24.75
+2016,Extorsión,Teléfono (sin especificar tipo),6677177,6207,99.97
+2016,Extorsión,Internet / redes sociales,2318,7,0.03
+2016,Fraude bancario,Teléfono (sin especificar tipo),1089451,1069,67.13
+2016,Fraude bancario,Internet / redes sociales,533551,329,32.87
+2017,Extorsión,Teléfono (sin especificar tipo),7170019,7008,99.87
+2017,Extorsión,Internet / redes sociales,9217,11,0.13
+2017,Fraude bancario,Teléfono (sin especificar tipo),1304484,1429,62.15
+2017,Fraude bancario,Internet / redes sociales,794279,511,37.85
+2018,Extorsión,Teléfono (sin especificar tipo),6139618,6024,99.9
+2018,Extorsión,Internet / redes sociales,6356,5,0.1
+2018,Fraude bancario,Teléfono (sin especificar tipo),1763256,1797,68.78
+2018,Fraude bancario,Internet / redes sociales,800469,513,31.22
+2019,Extorsión,Teléfono (sin especificar tipo),5235399,5247,99.46
+2019,Extorsión,Internet / redes sociales,28330,23,0.54
+2019,Fraude bancario,Teléfono (sin especificar tipo),2093200,2153,80.35
+2019,Fraude bancario,Internet / redes sociales,511994,512,19.65
+2020,Extorsión,Teléfono (sin especificar tipo),4103683,3767,99.26
+2020,Extorsión,Internet / redes sociales,30568,24,0.74
+2020,Fraude bancario,Teléfono (sin especificar tipo),1988321,1979,79.49
+2020,Fraude bancario,Internet / redes sociales,513051,389,20.51
+2021,Extorsión,Teléfono (sin especificar tipo),4229131,4010,99.3
+2021,Extorsión,Internet / redes sociales,29963,41,0.7
+2021,Fraude bancario,Teléfono (sin especificar tipo),2249707,2374,77.83
+2021,Fraude bancario,Internet / redes sociales,640649,456,22.17
+2022,Extorsión,Teléfono (sin especificar tipo),4432202,4203,99.26
+2022,Extorsión,Internet / redes sociales,33064,39,0.74
+2022,Fraude bancario,Teléfono (sin especificar tipo),2435274,2332,82.33
+2022,Fraude bancario,Internet / redes sociales,522616,428,17.67
+2023,Extorsión,Teléfono (sin especificar tipo),4258130,4116,98.8
+2023,Extorsión,Internet / redes sociales,51623,57,1.2
+2023,Fraude bancario,Teléfono (sin especificar tipo),2441178,2452,82.64
+2023,Fraude bancario,Internet / redes sociales,512873,370,17.36
+2024,Extorsión,Teléfono (sin especificar tipo),4194543,3893,97.94
+2024,Extorsión,Internet / redes sociales,88319,90,2.06
+2024,Fraude bancario,Teléfono (sin especificar tipo),2663873,2556,81.75
+2024,Fraude bancario,Internet / redes sociales,594795,432,18.25
+2025,Extorsión,Internet / redes sociales,982361,935,62.27
+2025,Extorsión,Teléfono (sin especificar tipo),526740,501,33.39
+2025,Extorsión,Teléfono (SMS / WhatsApp / mensaje),47926,45,3.04
+2025,Extorsión,Teléfono (llamada de voz),20530,13,1.3
+2025,Fraude bancario,Teléfono (sin especificar tipo),3100032,2967,84.64
+2025,Fraude bancario,Internet / redes sociales,562655,480,15.36

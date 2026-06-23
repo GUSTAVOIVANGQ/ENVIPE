@@ -1,0 +1,21 @@
+Tabla de datos: I_PRECIOS_ITE_VA,,,,
+Inicio de serie: Febrero 2010,,,,
+Fuente: INEGI,,,,
+Actualización: Mensual,,,,
+,,,,
+Variable,Tipo,Descripción,Fuente,Ruta temática
+ANIO,Numérica,Año,,
+MES,Numérica,Mes,,
+FECHA,Numérica,Fecha,,
+INPC_GRAL,Numérica,Índice nacional de precios de México,INPC Nacional (mensual) https://inegi.org.mx/app/indicesdeprecios/Estructura.aspx?idEstructura=112001700030&T=%C3%8Dndices%20de%20Precios%20al%20Consumidor&ST=INPC%20Nacional%20(mensual),"Nacional > Índice de precios al consumidor, por objeto del gasto > Índice general"
+INPC_TEL_MOVIL,Numérica,Índice de precios del servicio de telefonía móvil ,INPC Nacional (mensual) https://inegi.org.mx/app/indicesdeprecios/Estructura.aspx?idEstructura=112001700030&T=%C3%8Dndices%20de%20Precios%20al%20Consumidor&ST=INPC%20Nacional%20(mensual),"Nacional > Índice de precios al consumidor, por objeto del gasto > Índice general > Vivienda > Otros servicios relacionados con la vivienda > Otros servicios relacionados con la vivienda > Servicio telefónico > Servicio de telefonía móvil"
+INPC_TEL_FIJAVA,Numérica,Índice de precios del servicio telefónico local fijo (versión anterior),,
+INPC_TEL_FIJANV,Numérica,Índice de precios del servicio de telefonía fija,INPC Nacional (mensual) https://inegi.org.mx/app/indicesdeprecios/Estructura.aspx?idEstructura=112001700030&T=%C3%8Dndices%20de%20Precios%20al%20Consumidor&ST=INPC%20Nacional%20(mensual),"Nacional > Índice de precios al consumidor, por objeto del gasto > Índice general > Vivienda > Otros servicios relacionados con la vivienda > Otros servicios relacionados con la vivienda > Servicio telefónico > Servicio de telefonía fija"
+INPC_LDI,Numérica,Índice de precios del servicio de larga distancia internacional,,
+INPC_TV_RES,Numérica,Índice de precios del servicio de televisión de paga,INPC Nacional (mensual) https://inegi.org.mx/app/indicesdeprecios/Estructura.aspx?idEstructura=112001700030&T=%C3%8Dndices%20de%20Precios%20al%20Consumidor&ST=INPC%20Nacional%20(mensual),"Nacional > Índice de precios al consumidor, por objeto del gasto > Índice general > Educación y esparcimiento > Esparcimiento > Servicios de esparcimiento > Otros servicios de esparcimiento > Servicio de televisión de paga"
+INPC_INTERNET,Numérica,Índice de precios del servicio de Internet,INPC Nacional (mensual) https://inegi.org.mx/app/indicesdeprecios/Estructura.aspx?idEstructura=112001700030&T=%C3%8Dndices%20de%20Precios%20al%20Consumidor&ST=INPC%20Nacional%20(mensual),"Nacional > Índice de precios al consumidor, por objeto del gasto > Índice general > Educación y esparcimiento > Esparcimiento > Servicios de esparcimiento > Otros servicios de esparcimiento > Servicio de internet"
+INPC_TELECOM,Numérica,Índice de precios de Comunicaciones,,
+INPC_PQT,Numérica,"Índice de precios de los paquetes de los servicios de Internet, telefonía y televisión de paga",INPC Nacional (mensual) https://inegi.org.mx/app/indicesdeprecios/Estructura.aspx?idEstructura=112001700030&T=%C3%8Dndices%20de%20Precios%20al%20Consumidor&ST=INPC%20Nacional%20(mensual),"Nacional > Índice de precios al consumidor, por objeto del gasto > Índice general > Educación y esparcimiento > Esparcimiento > Servicios de esparcimiento > Otros servicios de esparcimiento > Paquetes de internet, telefonía y televisión de paga"
+,,,,
+"Para mayor información de la fuente y cálculo de las variables le invitamos a que visite el “Manual de Definiciones de los Indicadores Estadísticos de Telecomunicaciones”, disponible en: ",,,,
+http://www.ift.org.mx/estadisticas/manuales-del-banco-de-informacion-de-telecomunicaciones ,,,,
