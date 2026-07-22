@@ -1,0 +1,7 @@
+tests/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Datos grandes u originales
+conjunto_de_datos/

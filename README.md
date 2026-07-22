@@ -1,35 +1,94 @@
-# Procesamiento Histórico ENVIPE (INEGI)
+# Procesamiento ENVIPE: delitos por tipo y forma de comisión
 
-Este proyecto contiene las herramientas necesarias para procesar y unificar los microdatos históricos (2011-2025) de la Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE) del INEGI.
+## Objetivo
 
-El objetivo principal es extraer, limpiar y clasificar los datos de victimización centrándose estrictamente en el cruce de **Tipo de Delito** por **Medio de Comisión**, agrupándolos en un formato listo para el análisis, particularmente útil para los reportes a la Comisión Reguladora de Telecomunicaciones (CRT).
+`procesar_envipe_dbf_desglose_encuesta.py` procesa los archivos
+`TMod_Vic.dbf` de las ediciones ENVIPE 2011–2025 y genera un solo archivo:
 
-## Archivos Principales
-
-### 1. `procesar_envipe.py`
-Es el script consolidado que realiza todo el trabajo de extracción y limpieza. Sus funciones principales son:
-- **Carga automatizada**: Lee automáticamente todos los archivos `.zip` (que contienen los `.dbf` o `.csv` de victimización) ubicados en la carpeta `conjunto_de_datos`.
-- **Estandarización histórica**: A lo largo de los años, el INEGI ha cambiado los nombres de ciertas variables (ej. de `COD_DEL` a `BPCOD`). Este script homologa todas estas diferencias para poder apilar 15 años de encuestas sin errores.
-- **Clasificación de Medios de Comisión**: Aplica un conjunto de reglas basadas en el cuestionario de victimización para determinar si un delito se cometió de forma *Presencial*, vía *Teléfono* (voz o SMS), o por *Internet*.
-- **Agrupación**: Agrega millones de registros individuales a nivel nacional, sumando el factor de expansión (`FAC_DEL`) para obtener la estimación poblacional y contando los registros en la muestra.
-
-#### Uso:
-```bash
-pip install pandas dbfread
-python procesar_envipe.py
+```text
+ENVIPE_DESGLOSE_ENCUESTA.csv
 ```
 
-### 2. `resultados/ENVIPE_DELITO_MEDIO_HISTORICO.csv`
-Es el producto final generado por el script. Es un archivo de formato largo (tabular), diseñado para que gerentes y analistas puedan importarlo directamente a **Excel, Power BI o Tableau** en cuestión de segundos y generar tablas dinámicas.
+El resultado presenta estimaciones nacionales por:
 
-**Estructura del CSV:**
-- `ANIO`: El año de la encuesta (2011 a 2025).
-- `TIPO_DELITO`: El nombre descriptivo del delito (ej. Fraude bancario, Extorsión, etc.).
-- `MEDIO_COMISION`: El canal detallado por el cual se perpetró el delito (ej. *Teléfono (llamada de voz)*).
-- `CATEGORIA_MEDIO`: Agrupación de alto nivel para reportes ejecutivos (*TELEFÓNICO, INTERNET / DIGITAL, PRESENCIAL, OTRO MEDIO*).
-- `ESTIMACION_POBLACIONAL`: El número total de delitos estimados en la población mexicana.
-- `REGISTROS_MUESTRA`: La cantidad de encuestados físicos que reportaron el caso (útil para validar la significancia estadística).
+- tipo de delito;
+- tipo de fraude;
+- tipo de extorsión;
+- medio de comisión disponible en el cuestionario.
 
-## Organización de Carpetas
-- `/conjunto_de_datos`: Directorio donde se deben colocar los archivos `.zip` originales descargados desde el portal de microdatos del INEGI.
-- `/resultados`: Directorio donde se guardará automáticamente el archivo `ENVIPE_DELITO_MEDIO_HISTORICO.csv` tras la ejecución del script.
+La edición ENVIPE **N** reporta los delitos ocurridos en el año **N−1**.
+Por ejemplo, ENVIPE 2011 pregunta por delitos de 2010 y ENVIPE 2025 por
+delitos de 2024.
+
+## Datos utilizados
+
+El programa toma únicamente variables de la tabla `TMod_Vic`:
+
+| Variable | Uso |
+|---|---|
+| `BPCOD` | Código del tipo de delito. |
+| `FAC_DEL` | Factor de expansión del incidente. |
+| `BP4_1` | Respuesta a “¿Qué tipo de fraude fue?”. |
+| `BP5_1` | Respuesta a “¿La extorsión fue...?”. |
+| `BP1_5A_1` a `BP1_5A_4`, `BP1_5A_9` | Medio de comisión en ENVIPE 2025: internet, llamada, contacto presencial, otro o no sabe. |
+| `BP5_1A_1` a `BP5_1A_4` | Lugar de la extorsión presencial en ENVIPE 2025. |
+
+La estimación de cada categoría se calcula como:
+
+```text
+estimación = suma de FAC_DEL de los registros que cumplen el filtro
+```
+
+`muestra` es el número de registros sin expandir. `porcentaje_base` compara
+cada categoría con el total del delito o de la sección correspondiente.
+
+## Criterios de clasificación
+
+Los nombres, códigos y opciones se tomaron de los cuestionarios oficiales
+de cada edición. Los catálogos cambian entre años, por lo que el programa
+no aplica una sola clasificación a toda la serie.
+
+Ejemplos:
+
+- En ENVIPE 2011, fraude por internet corresponde a `BP4_1 = 3`.
+- Desde ENVIPE 2014, fraude usa seis categorías y
+  “Por internet/correo electrónico” corresponde a `BP4_1 = 5`.
+- Hasta ENVIPE 2024, extorsión se divide en telefónica, laboral,
+  internet/correo, calle, negocio propio o familiar, cobro de piso y otro.
+- ENVIPE 2025 separa el tipo de extorsión del medio de comisión e incorpora
+  una pregunta multirrespuesta aplicable a fraude bancario, fraude al
+  consumidor, extorsión, amenazas y hostigamiento sexual.
+
+El archivo `CATALOGO_ENVIPE_DESGLOSES_POR_ANIO.csv` documenta las
+categorías aplicadas en cada año.
+
+## Ejecución
+
+```bash
+python procesar_envipe_dbf_desglose_encuesta.py \
+  --dir conjunto_de_datos \
+  --salida ENVIPE_DESGLOSE_ENCUESTA.csv \
+  --require-all
+```
+
+El directorio puede contener `TMod_Vic.dbf` directamente o dentro de los
+ZIP originales de INEGI.
+
+## Limitaciones
+
+Las cifras son estimaciones puntuales. El programa no calcula error
+estándar, coeficiente de variación ni intervalos de confianza. Las
+respuestas multirrespuesta de ENVIPE 2025 pueden sumar más de 100 %.
+
+## Referencias oficiales
+
+- INEGI, *ENVIPE 2011. Módulo sobre victimización*:  
+  https://www.inegi.org.mx/contenidos/programas/envipe/2011/doc/cuest_envipe11_modulo.pdf
+- INEGI, *ENVIPE 2024. Módulo sobre victimización*:  
+  https://www.inegi.org.mx/contenidos/programas/envipe/2024/doc/cuest_modulo_envipe2024.pdf
+- INEGI, *ENVIPE 2025. Módulo sobre victimización*:  
+  https://www.inegi.org.mx/contenidos/programas/envipe/2025/doc/cuest_modulo_envipe2025.pdf
+- INEGI, *ENVIPE 2025. Estructura de la base de datos*:  
+  https://www.inegi.org.mx/contenidos/programas/envipe/2025/doc/fd_envipe2025.pdf
+- Portal oficial de ENVIPE:  
+  https://www.inegi.org.mx/programas/envipe/

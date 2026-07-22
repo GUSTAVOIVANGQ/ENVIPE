@@ -1,0 +1,441 @@
+﻿anio,seccion,codigo_delito,delito,pregunta,modalidad_comision,estimacion,muestra,porcentaje,total_delito
+2010,SECCIÓN I. TODOS LOS TIPOS DE DELITO,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,Total,2369345,5642,100.0000,2369345
+2010,SECCIÓN I. TODOS LOS TIPOS DE DELITO,09,Amenazas verbales,Total por tipo de delito,Total,1832944,1658,100.0000,1832944
+2010,SECCIÓN I. TODOS LOS TIPOS DE DELITO,10,Lesiones por agresión física,Total por tipo de delito,Total,1182473,980,100.0000,1182473
+2010,SECCIÓN I. TODOS LOS TIPOS DE DELITO,13,Violación sexual,Total por tipo de delito,Total,15610,22,100.0000,15610
+2010,SECCIÓN I. TODOS LOS TIPOS DE DELITO,14,Otros delitos,Total por tipo de delito,Total,320138,356,100.0000,320138
+2010,SECCIÓN II. ROBO TOTAL DE VEHÍCULO,01,Robo total de vehículo,Total por tipo de delito,Total,434786,1232,100.0000,434786
+2010,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",03,Robo en casa habitación,Total por tipo de delito,Total,1601746,4067,100.0000,1601746
+2010,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",04,Robo o asalto en la calle o transporte público,Total por tipo de delito,Total,5617621,4126,100.0000,5617621
+2010,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",05,Robo en forma distinta a los anteriores,Total por tipo de delito,Total,1426278,1470,100.0000,1426278
+2010,SECCIÓN IV. FRAUDE,06,Clonación de tarjeta o fraude bancario,Total por tipo de delito,Total,1010803,942,100.0000,1010803
+2010,SECCIÓN IV. FRAUDE,07,Fraude,4.1 ¿Qué tipo de fraude fue?,Cheque falso,19787,15,1.9713,1003742
+2010,SECCIÓN IV. FRAUDE,07,Fraude,4.1 ¿Qué tipo de fraude fue?,Otro,31951,23,3.1832,1003742
+2010,SECCIÓN IV. FRAUDE,07,Fraude,4.1 ¿Qué tipo de fraude fue?,Pago por un servicio/producto no entregado (al consumidor),822639,810,81.9572,1003742
+2010,SECCIÓN IV. FRAUDE,07,Fraude,4.1 ¿Qué tipo de fraude fue?,Por internet/correo electrónico,59425,35,5.9203,1003742
+2010,SECCIÓN IV. FRAUDE,07,Fraude al consumidor,Total por tipo de delito,Total,1003742,958,100.0000,1003742
+2010,SECCIÓN V. EXTORSIÓN,08,Extorsión,5.1 ¿La extorsión fue...?,Cobro de piso,12120,14,0.2209,5485470
+2010,SECCIÓN V. EXTORSIÓN,08,Extorsión,5.1 ¿La extorsión fue...?,En la calle,225693,149,4.1144,5485470
+2010,SECCIÓN V. EXTORSIÓN,08,Extorsión,5.1 ¿La extorsión fue...?,En negocio propio o familiar,75436,69,1.3752,5485470
+2010,SECCIÓN V. EXTORSIÓN,08,Extorsión,5.1 ¿La extorsión fue...?,Laboral,74594,52,1.3598,5485470
+2010,SECCIÓN V. EXTORSIÓN,08,Extorsión,5.1 ¿La extorsión fue...?,Otro,51188,68,0.9332,5485470
+2010,SECCIÓN V. EXTORSIÓN,08,Extorsión,5.1 ¿La extorsión fue...?,Por internet/correo electrónico,81965,5,1.4942,5485470
+2010,SECCIÓN V. EXTORSIÓN,08,Extorsión,5.1 ¿La extorsión fue...?,Telefónica,4868818,4643,88.7584,5485470
+2010,SECCIÓN V. EXTORSIÓN,08,Extorsión,Total por tipo de delito,Total,5485470,5067,100.0000,5485470
+2010,SECCIÓN VI. SECUESTRO PARA EXIGIR DINERO O BIENES,11,Secuestro para exigir dinero o bienes,Total por tipo de delito,Total,114500,86,100.0000,114500
+2010,"SECCIÓN VII. HOSTIGAMIENTO, MANOSEO, EXHIBICIONISMO, INTENTO DE VIOLACIÓN",12,"Hostigamiento, manoseo, exhibicionismo o intento de violación",Total por tipo de delito,Total,724127,580,100.0000,724127
+2011,SECCIÓN I. TODOS LOS TIPOS DE DELITO,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,Total,2549418,7316,100.0000,2549418
+2011,SECCIÓN I. TODOS LOS TIPOS DE DELITO,09,Amenazas verbales,Total por tipo de delito,Total,1752102,2294,100.0000,1752102
+2011,SECCIÓN I. TODOS LOS TIPOS DE DELITO,10,Lesiones por agresión física,Total por tipo de delito,Total,927501,1063,100.0000,927501
+2011,SECCIÓN I. TODOS LOS TIPOS DE DELITO,13,Violación sexual,Total por tipo de delito,Total,41406,74,100.0000,41406
+2011,SECCIÓN I. TODOS LOS TIPOS DE DELITO,14,Otros delitos,Total por tipo de delito,Total,101658,157,100.0000,101658
+2011,SECCIÓN II. ROBO TOTAL DE VEHÍCULO,01,Robo total de vehículo,Total por tipo de delito,Total,611371,1655,100.0000,611371
+2011,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",03,Robo en casa habitación,Total por tipo de delito,Total,1726861,5161,100.0000,1726861
+2011,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",04,Robo o asalto en la calle o transporte público,Total por tipo de delito,Total,6633702,5066,100.0000,6633702
+2011,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",05,Robo en forma distinta a los anteriores,Total por tipo de delito,Total,1108614,1227,100.0000,1108614
+2011,SECCIÓN IV. FRAUDE,06,Clonación de tarjeta o fraude bancario,Total por tipo de delito,Total,1102434,1407,100.0000,1102434
+2011,SECCIÓN IV. FRAUDE,07,Fraude,4.1 ¿Qué tipo de fraude fue?,Cheque falso,36505,36,4.3862,832275
+2011,SECCIÓN IV. FRAUDE,07,Fraude,4.1 ¿Qué tipo de fraude fue?,Otro,30225,29,3.6316,832275
+2011,SECCIÓN IV. FRAUDE,07,Fraude,4.1 ¿Qué tipo de fraude fue?,Pago por un servicio/producto no entregado (al consumidor),659505,888,79.2412,832275
+2011,SECCIÓN IV. FRAUDE,07,Fraude,4.1 ¿Qué tipo de fraude fue?,Por internet/correo electrónico,31878,33,3.8302,832275
+2011,SECCIÓN IV. FRAUDE,07,Fraude,4.1 ¿Qué tipo de fraude fue?,Tarjeta de débito o crédito,34703,43,4.1697,832275
+2011,SECCIÓN IV. FRAUDE,07,Fraude al consumidor,Total por tipo de delito,Total,832275,1107,100.0000,832275
+2011,SECCIÓN V. EXTORSIÓN,08,Extorsión,5.1 ¿La extorsión fue...?,Cobro de piso,39888,26,0.9116,4375640
+2011,SECCIÓN V. EXTORSIÓN,08,Extorsión,5.1 ¿La extorsión fue...?,En la calle,212704,212,4.8611,4375640
+2011,SECCIÓN V. EXTORSIÓN,08,Extorsión,5.1 ¿La extorsión fue...?,En negocio propio o familiar,61423,50,1.4037,4375640
+2011,SECCIÓN V. EXTORSIÓN,08,Extorsión,5.1 ¿La extorsión fue...?,Laboral,51196,70,1.1700,4375640
+2011,SECCIÓN V. EXTORSIÓN,08,Extorsión,5.1 ¿La extorsión fue...?,Otro,55063,62,1.2584,4375640
+2011,SECCIÓN V. EXTORSIÓN,08,Extorsión,5.1 ¿La extorsión fue...?,Por internet/correo electrónico,1838,5,0.0420,4375640
+2011,SECCIÓN V. EXTORSIÓN,08,Extorsión,5.1 ¿La extorsión fue...?,Telefónica,3894150,4591,88.9961,4375640
+2011,SECCIÓN V. EXTORSIÓN,08,Extorsión,Total por tipo de delito,Total,4375640,5095,100.0000,4375640
+2011,SECCIÓN VI. SECUESTRO PARA EXIGIR DINERO O BIENES,11,Secuestro para exigir dinero o bienes,Total por tipo de delito,Total,98846,81,100.0000,98846
+2011,"SECCIÓN VII. HOSTIGAMIENTO, MANOSEO, EXHIBICIONISMO, INTENTO DE VIOLACIÓN",12,"Hostigamiento, manoseo, exhibicionismo o intento de violación",Total por tipo de delito,Total,740477,790,100.0000,740477
+2012,SECCIÓN I. TODOS LOS TIPOS DE DELITO,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,Total,3340576,8726,100.0000,3340576
+2012,SECCIÓN I. TODOS LOS TIPOS DE DELITO,03,Vandalismo,Total por tipo de delito,Total,3758143,9857,100.0000,3758143
+2012,SECCIÓN I. TODOS LOS TIPOS DE DELITO,10,Amenazas,Total por tipo de delito,Total,2854710,3038,100.0000,2854710
+2012,SECCIÓN I. TODOS LOS TIPOS DE DELITO,11,Lesiones por agresión física,Total por tipo de delito,Total,1087761,1012,100.0000,1087761
+2012,SECCIÓN I. TODOS LOS TIPOS DE DELITO,14,Violación sexual,Total por tipo de delito,Total,89873,81,100.0000,89873
+2012,SECCIÓN I. TODOS LOS TIPOS DE DELITO,15,Otros delitos,Total por tipo de delito,Total,62806,81,100.0000,62806
+2012,SECCIÓN II. ROBO TOTAL DE VEHÍCULO,01,Robo total de vehículo,Total por tipo de delito,Total,622462,1588,100.0000,622462
+2012,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",04,Robo en casa habitación,Total por tipo de delito,Total,2099285,6266,100.0000,2099285
+2012,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",05,Robo o asalto en la calle o transporte público,Total por tipo de delito,Total,7931693,5821,100.0000,7931693
+2012,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",06,Robo en forma distinta a la anterior,Total por tipo de delito,Total,396846,434,100.0000,396846
+2012,SECCIÓN IV. FRAUDE,07,Fraude bancario,Total por tipo de delito,Total,1325757,1551,100.0000,1325757
+2012,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Cheque falso o sin fondos,32950,47,1.2564,2622599
+2012,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Dinero falso,284161,224,10.8351,2622599
+2012,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Otro,169014,192,6.4445,2622599
+2012,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Pago por un servicio/producto no entregado (al consumidor),1093589,1428,41.6987,2622599
+2012,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Por internet/correo electrónico,55002,79,2.0972,2622599
+2012,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Tarjeta de débito o crédito,914624,1200,34.8747,2622599
+2012,SECCIÓN IV. FRAUDE,08,Fraude al consumidor,Total por tipo de delito,Total,1296842,1707,100.0000,1296842
+2012,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Cobro de piso,32623,30,0.5443,5994034
+2012,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En la calle,182982,236,3.0527,5994034
+2012,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En negocio propio o familiar,65394,94,1.0910,5994034
+2012,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Laboral,40998,46,0.6840,5994034
+2012,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Otro,48934,57,0.8164,5994034
+2012,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Por internet/correo electrónico,23379,23,0.3900,5994034
+2012,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Telefónica,5505341,5811,91.8470,5994034
+2012,SECCIÓN V. EXTORSIÓN,09,Extorsión,Total por tipo de delito,Total,5994034,6388,100.0000,5994034
+2012,SECCIÓN VI. SECUESTRO PARA EXIGIR DINERO O BIENES,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,Total,89086,82,100.0000,89086
+2012,"SECCIÓN VII. HOSTIGAMIENTO, MANOSEO, EXHIBICIONISMO, INTENTO DE VIOLACIÓN",13,Hostigamiento o intimidación sexual,Total por tipo de delito,Total,577716,485,100.0000,577716
+2013,SECCIÓN I. TODOS LOS TIPOS DE DELITO,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,Total,3358372,7349,100.0000,3358372
+2013,SECCIÓN I. TODOS LOS TIPOS DE DELITO,03,Vandalismo,Total por tipo de delito,Total,4150876,8164,100.0000,4150876
+2013,SECCIÓN I. TODOS LOS TIPOS DE DELITO,10,Amenazas,Total por tipo de delito,Total,3031965,3008,100.0000,3031965
+2013,SECCIÓN I. TODOS LOS TIPOS DE DELITO,11,Lesiones por agresión física,Total por tipo de delito,Total,1038026,919,100.0000,1038026
+2013,SECCIÓN I. TODOS LOS TIPOS DE DELITO,14,Violación sexual,Total por tipo de delito,Total,97662,82,100.0000,97662
+2013,SECCIÓN I. TODOS LOS TIPOS DE DELITO,15,Otros delitos,Total por tipo de delito,Total,88903,120,100.0000,88903
+2013,SECCIÓN II. ROBO TOTAL DE VEHÍCULO,01,Robo total de vehículo,Total por tipo de delito,Total,601157,1235,100.0000,601157
+2013,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",04,Robo en casa habitación,Total por tipo de delito,Total,2141103,5804,100.0000,2141103
+2013,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",05,Robo o asalto en la calle o transporte público,Total por tipo de delito,Total,9787891,5424,100.0000,9787891
+2013,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",06,Robo en forma distinta a la anterior,Total por tipo de delito,Total,1213624,1455,100.0000,1213624
+2013,SECCIÓN IV. FRAUDE,07,Fraude bancario,Total por tipo de delito,Total,1494570,1300,100.0000,1494570
+2013,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Cheque falso o sin fondos,39658,25,1.2513,3169461
+2013,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Dinero falso,216486,154,6.8304,3169461
+2013,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Otro,17429,22,0.5499,3169461
+2013,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Pago por un servicio/producto no entregado (al consumidor),1764217,1664,55.6630,3169461
+2013,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Por internet/correo electrónico,47148,43,1.4876,3169461
+2013,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Tarjeta de débito o crédito,1077199,976,33.9868,3169461
+2013,SECCIÓN IV. FRAUDE,08,Fraude al consumidor,Total por tipo de delito,Total,1674891,1594,100.0000,1674891
+2013,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Cobro de piso,22140,23,0.2841,7794040
+2013,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En la calle,171406,154,2.1992,7794040
+2013,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En negocio propio o familiar,133761,90,1.7162,7794040
+2013,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Laboral,43416,31,0.5570,7794040
+2013,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Otro,59202,71,0.7596,7794040
+2013,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Por internet/correo electrónico,17266,17,0.2215,7794040
+2013,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Telefónica,7323178,5965,93.9587,7794040
+2013,SECCIÓN V. EXTORSIÓN,09,Extorsión,Total por tipo de delito,Total,7794040,6373,100.0000,7794040
+2013,SECCIÓN VI. SECUESTRO PARA EXIGIR DINERO O BIENES,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,Total,85821,76,100.0000,85821
+2013,"SECCIÓN VII. HOSTIGAMIENTO, MANOSEO, EXHIBICIONISMO, INTENTO DE VIOLACIÓN",13,Hostigamiento o intimidación sexual,Total por tipo de delito,Total,682238,575,100.0000,682238
+2014,SECCIÓN I. TODOS LOS TIPOS DE DELITO,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,Total,3408567,7685,100.0000,3408567
+2014,SECCIÓN I. TODOS LOS TIPOS DE DELITO,03,Vandalismo,Total por tipo de delito,Total,3829856,8279,100.0000,3829856
+2014,SECCIÓN I. TODOS LOS TIPOS DE DELITO,10,Amenazas,Total por tipo de delito,Total,3324903,3022,100.0000,3324903
+2014,SECCIÓN I. TODOS LOS TIPOS DE DELITO,11,Lesiones por agresión física,Total por tipo de delito,Total,1159244,950,100.0000,1159244
+2014,SECCIÓN I. TODOS LOS TIPOS DE DELITO,14,Violación sexual,Total por tipo de delito,Total,90487,67,100.0000,90487
+2014,SECCIÓN I. TODOS LOS TIPOS DE DELITO,15,Otros delitos,Total por tipo de delito,Total,64576,91,100.0000,64576
+2014,SECCIÓN II. ROBO TOTAL DE VEHÍCULO,01,Robo total de vehículo,Total por tipo de delito,Total,545052,1131,100.0000,545052
+2014,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",04,Robo en casa habitación,Total por tipo de delito,Total,2050088,5651,100.0000,2050088
+2014,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",05,Robo o asalto en la calle o transporte público,Total por tipo de delito,Total,9631471,5357,100.0000,9631471
+2014,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",06,Robo en forma distinta a la anterior,Total por tipo de delito,Total,1192869,1482,100.0000,1192869
+2014,SECCIÓN IV. FRAUDE,07,Fraude bancario,Total por tipo de delito,Total,1744375,1539,100.0000,1744375
+2014,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Cheque falso o sin fondos,38733,17,1.1251,3442757
+2014,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Dinero falso,326131,236,9.4730,3442757
+2014,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Otro,33632,34,0.9769,3442757
+2014,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Pago por un servicio/producto no entregado (al consumidor),1814676,1798,52.7100,3442757
+2014,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Por internet/correo electrónico,49928,55,1.4502,3442757
+2014,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Tarjeta de débito o crédito,1143511,1079,33.2150,3442757
+2014,SECCIÓN IV. FRAUDE,08,Fraude al consumidor,Total por tipo de delito,Total,1698382,1699,100.0000,1698382
+2014,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Cobro de piso,31281,17,0.3925,7969585
+2014,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En la calle,204662,192,2.5680,7969585
+2014,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En negocio propio o familiar,55188,66,0.6925,7969585
+2014,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Laboral,34268,34,0.4300,7969585
+2014,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Otro,66733,94,0.8373,7969585
+2014,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Por internet/correo electrónico,16294,17,0.2045,7969585
+2014,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Telefónica,7546896,6671,94.6962,7969585
+2014,SECCIÓN V. EXTORSIÓN,09,Extorsión,Total por tipo de delito,Total,7969585,7113,100.0000,7969585
+2014,SECCIÓN VI. SECUESTRO PARA EXIGIR DINERO O BIENES,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,Total,79263,81,100.0000,79263
+2014,"SECCIÓN VII. HOSTIGAMIENTO, MANOSEO, EXHIBICIONISMO, INTENTO DE VIOLACIÓN",13,Hostigamiento o intimidación sexual,Total por tipo de delito,Total,745170,552,100.0000,745170
+2015,SECCIÓN I. TODOS LOS TIPOS DE DELITO,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,Total,2854511,6679,100.0000,2854511
+2015,SECCIÓN I. TODOS LOS TIPOS DE DELITO,03,Vandalismo,Total por tipo de delito,Total,2737485,6443,100.0000,2737485
+2015,SECCIÓN I. TODOS LOS TIPOS DE DELITO,10,Amenazas,Total por tipo de delito,Total,2340636,2531,100.0000,2340636
+2015,SECCIÓN I. TODOS LOS TIPOS DE DELITO,11,Lesiones por agresión física,Total por tipo de delito,Total,1072610,1134,100.0000,1072610
+2015,SECCIÓN I. TODOS LOS TIPOS DE DELITO,14,Violación sexual,Total por tipo de delito,Total,76039,92,100.0000,76039
+2015,SECCIÓN I. TODOS LOS TIPOS DE DELITO,15,Otros delitos,Total por tipo de delito,Total,89008,91,100.0000,89008
+2015,SECCIÓN II. ROBO TOTAL DE VEHÍCULO,01,Robo total de vehículo,Total por tipo de delito,Total,452001,965,100.0000,452001
+2015,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",04,Robo en casa habitación,Total por tipo de delito,Total,2061119,5598,100.0000,2061119
+2015,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",05,Robo o asalto en la calle o transporte público,Total por tipo de delito,Total,8252297,4839,100.0000,8252297
+2015,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",06,Robo en forma distinta a la anterior,Total por tipo de delito,Total,1088607,1202,100.0000,1088607
+2015,SECCIÓN IV. FRAUDE,07,Fraude bancario,Total por tipo de delito,Total,1770824,1550,100.0000,1770824
+2015,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Cheque falso o sin fondos,14365,18,0.4454,3225165
+2015,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Dinero falso,493092,287,15.2889,3225165
+2015,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Otro,28457,31,0.8823,3225165
+2015,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Pago por un servicio/producto no entregado (al consumidor),1529623,1696,47.4277,3225165
+2015,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Por internet/correo electrónico,40459,42,1.2545,3225165
+2015,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Tarjeta de débito o crédito,1089451,1069,33.7797,3225165
+2015,SECCIÓN IV. FRAUDE,08,Fraude al consumidor,Total por tipo de delito,Total,1454341,1623,100.0000,1454341
+2015,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Cobro de piso,27611,31,0.3888,7100878
+2015,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En la calle,213176,207,3.0021,7100878
+2015,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En negocio propio o familiar,40488,52,0.5702,7100878
+2015,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Laboral,26780,31,0.3771,7100878
+2015,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Otro,67856,61,0.9556,7100878
+2015,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Por internet/correo electrónico,2318,7,0.0326,7100878
+2015,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Telefónica,6677177,6207,94.0331,7100878
+2015,SECCIÓN V. EXTORSIÓN,09,Extorsión,Total por tipo de delito,Total,7100878,6655,100.0000,7100878
+2015,SECCIÓN VI. SECUESTRO PARA EXIGIR DINERO O BIENES,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,Total,66128,63,100.0000,66128
+2015,"SECCIÓN VII. HOSTIGAMIENTO, MANOSEO, EXHIBICIONISMO, INTENTO DE VIOLACIÓN",13,Hostigamiento o intimidación sexual,Total por tipo de delito,Total,629151,561,100.0000,629151
+2016,SECCIÓN I. TODOS LOS TIPOS DE DELITO,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,Total,3029486,7475,100.0000,3029486
+2016,SECCIÓN I. TODOS LOS TIPOS DE DELITO,03,Vandalismo,Total por tipo de delito,Total,2734911,6618,100.0000,2734911
+2016,SECCIÓN I. TODOS LOS TIPOS DE DELITO,10,Amenazas,Total por tipo de delito,Total,2409065,2742,100.0000,2409065
+2016,SECCIÓN I. TODOS LOS TIPOS DE DELITO,11,Lesiones por agresión física,Total por tipo de delito,Total,968451,982,100.0000,968451
+2016,SECCIÓN I. TODOS LOS TIPOS DE DELITO,14,Violación sexual,Total por tipo de delito,Total,60994,82,100.0000,60994
+2016,SECCIÓN I. TODOS LOS TIPOS DE DELITO,15,Otros delitos,Total por tipo de delito,Total,107844,121,100.0000,107844
+2016,SECCIÓN II. ROBO TOTAL DE VEHÍCULO,01,Robo total de vehículo,Total por tipo de delito,Total,493727,1106,100.0000,493727
+2016,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",04,Robo en casa habitación,Total por tipo de delito,Total,2044594,5799,100.0000,2044594
+2016,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",05,Robo o asalto en la calle o transporte público,Total por tipo de delito,Total,8052656,5818,100.0000,8052656
+2016,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",06,Robo en forma distinta a la anterior,Total por tipo de delito,Total,1578411,1832,100.0000,1578411
+2016,SECCIÓN IV. FRAUDE,07,Fraude bancario,Total por tipo de delito,Total,2299660,2087,100.0000,2299660
+2016,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Cheque falso o sin fondos,28339,20,0.7255,3906132
+2016,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Dinero falso,734872,452,18.8133,3906132
+2016,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Otro,29041,23,0.7435,3906132
+2016,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Pago por un servicio/producto no entregado (al consumidor),1683733,1882,43.1049,3906132
+2016,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Por internet/correo electrónico,59407,59,1.5209,3906132
+2016,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Tarjeta de débito o crédito,1304484,1429,33.3958,3906132
+2016,SECCIÓN IV. FRAUDE,08,Fraude al consumidor,Total por tipo de delito,Total,1606472,1799,100.0000,1606472
+2016,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Cobro de piso,19403,19,0.2586,7503477
+2016,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En la calle,156105,185,2.0804,7503477
+2016,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En negocio propio o familiar,55688,44,0.7422,7503477
+2016,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Laboral,29811,35,0.3973,7503477
+2016,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Otro,52272,70,0.6966,7503477
+2016,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Por internet/correo electrónico,9217,11,0.1228,7503477
+2016,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Telefónica,7170019,7008,95.5560,7503477
+2016,SECCIÓN V. EXTORSIÓN,09,Extorsión,Total por tipo de delito,Total,7503477,7386,100.0000,7503477
+2016,SECCIÓN VI. SECUESTRO PARA EXIGIR DINERO O BIENES,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,Total,79864,76,100.0000,79864
+2016,"SECCIÓN VII. HOSTIGAMIENTO, MANOSEO, EXHIBICIONISMO, INTENTO DE VIOLACIÓN",13,Hostigamiento o intimidación sexual,Total por tipo de delito,Total,817975,707,100.0000,817975
+2017,SECCIÓN I. TODOS LOS TIPOS DE DELITO,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,Total,3206477,7738,100.0000,3206477
+2017,SECCIÓN I. TODOS LOS TIPOS DE DELITO,03,Vandalismo,Total por tipo de delito,Total,2835224,6692,100.0000,2835224
+2017,SECCIÓN I. TODOS LOS TIPOS DE DELITO,10,Amenazas,Total por tipo de delito,Total,2837151,2797,100.0000,2837151
+2017,SECCIÓN I. TODOS LOS TIPOS DE DELITO,11,Lesiones por agresión física,Total por tipo de delito,Total,1004432,1048,100.0000,1004432
+2017,SECCIÓN I. TODOS LOS TIPOS DE DELITO,14,Violación sexual,Total por tipo de delito,Total,65954,82,100.0000,65954
+2017,SECCIÓN I. TODOS LOS TIPOS DE DELITO,15,Otros delitos,Total por tipo de delito,Total,67615,87,100.0000,67615
+2017,SECCIÓN II. ROBO TOTAL DE VEHÍCULO,01,Robo total de vehículo,Total por tipo de delito,Total,626088,1385,100.0000,626088
+2017,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",04,Robo en casa habitación,Total por tipo de delito,Total,2343609,6217,100.0000,2343609
+2017,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",05,Robo o asalto en la calle o transporte público,Total por tipo de delito,Total,9460924,6793,100.0000,9460924
+2017,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",06,Robo en forma distinta a la anterior,Total por tipo de delito,Total,1521317,1828,100.0000,1521317
+2017,SECCIÓN IV. FRAUDE,07,Fraude bancario,Total por tipo de delito,Total,2846379,2525,100.0000,2846379
+2017,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Cheque falso o sin fondos,36310,23,0.7962,4560683
+2017,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Dinero falso,683700,402,14.9912,4560683
+2017,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Otro,70005,69,1.5350,4560683
+2017,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Pago por un servicio/producto no entregado (al consumidor),1852462,2081,40.6181,4560683
+2017,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Por internet/correo electrónico,116769,111,2.5603,4560683
+2017,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Tarjeta de débito o crédito,1763256,1797,38.6621,4560683
+2017,SECCIÓN IV. FRAUDE,08,Fraude al consumidor,Total por tipo de delito,Total,1714304,1980,100.0000,1714304
+2017,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Cobro de piso,20485,28,0.3108,6590728
+2017,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En la calle,243583,195,3.6958,6590728
+2017,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En negocio propio o familiar,73141,40,1.1098,6590728
+2017,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Laboral,19650,30,0.2981,6590728
+2017,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Otro,71887,63,1.0907,6590728
+2017,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Por internet/correo electrónico,6356,5,0.0964,6590728
+2017,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Telefónica,6139618,6024,93.1554,6590728
+2017,SECCIÓN V. EXTORSIÓN,09,Extorsión,Total por tipo de delito,Total,6590728,6401,100.0000,6590728
+2017,SECCIÓN VI. SECUESTRO PARA EXIGIR DINERO O BIENES,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,Total,85089,64,100.0000,85089
+2017,"SECCIÓN VII. HOSTIGAMIENTO, MANOSEO, EXHIBICIONISMO, INTENTO DE VIOLACIÓN",13,Hostigamiento o intimidación sexual,Total por tipo de delito,Total,1244240,1037,100.0000,1244240
+2018,SECCIÓN I. TODOS LOS TIPOS DE DELITO,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,Total,3185166,7764,100.0000,3185166
+2018,SECCIÓN I. TODOS LOS TIPOS DE DELITO,03,Vandalismo,Total por tipo de delito,Total,2729220,6808,100.0000,2729220
+2018,SECCIÓN I. TODOS LOS TIPOS DE DELITO,10,Amenazas,Total por tipo de delito,Total,2842523,2917,100.0000,2842523
+2018,SECCIÓN I. TODOS LOS TIPOS DE DELITO,11,Lesiones por agresión física,Total por tipo de delito,Total,1032059,1007,100.0000,1032059
+2018,SECCIÓN I. TODOS LOS TIPOS DE DELITO,14,Violación sexual,Total por tipo de delito,Total,71020,92,100.0000,71020
+2018,SECCIÓN I. TODOS LOS TIPOS DE DELITO,15,Otros delitos,Total por tipo de delito,Total,154509,114,100.0000,154509
+2018,SECCIÓN II. ROBO TOTAL DE VEHÍCULO,01,Robo total de vehículo,Total por tipo de delito,Total,605817,1443,100.0000,605817
+2018,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",04,Robo en casa habitación,Total por tipo de delito,Total,2269882,6296,100.0000,2269882
+2018,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",05,Robo o asalto en la calle o transporte público,Total por tipo de delito,Total,9415088,6419,100.0000,9415088
+2018,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",06,Robo en forma distinta a la anterior,Total por tipo de delito,Total,1650651,1862,100.0000,1650651
+2018,SECCIÓN IV. FRAUDE,07,Fraude bancario,Total por tipo de delito,Total,2837208,2869,100.0000,2837208
+2018,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Cheque falso o sin fondos,19105,19,0.4051,4716073
+2018,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Dinero falso,302336,314,6.4108,4716073
+2018,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Otro,40906,30,0.8674,4716073
+2018,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Pago por un servicio/producto no entregado (al consumidor),2034442,2120,43.1385,4716073
+2018,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Por internet/correo electrónico,209658,198,4.4456,4716073
+2018,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Tarjeta de débito o crédito,2093200,2153,44.3844,4716073
+2018,SECCIÓN IV. FRAUDE,08,Fraude al consumidor,Total por tipo de delito,Total,1878865,1984,100.0000,1878865
+2018,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Cobro de piso,18559,24,0.3247,5716346
+2018,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En la calle,206087,226,3.6052,5716346
+2018,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En negocio propio o familiar,46689,51,0.8168,5716346
+2018,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Laboral,72542,50,1.2690,5716346
+2018,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Otro,79132,79,1.3843,5716346
+2018,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Por internet/correo electrónico,28330,23,0.4956,5716346
+2018,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Telefónica,5235399,5247,91.5865,5716346
+2018,SECCIÓN V. EXTORSIÓN,09,Extorsión,Total por tipo de delito,Total,5716346,5722,100.0000,5716346
+2018,SECCIÓN VI. SECUESTRO PARA EXIGIR DINERO O BIENES,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,Total,53738,62,100.0000,53738
+2018,"SECCIÓN VII. HOSTIGAMIENTO, MANOSEO, EXHIBICIONISMO, INTENTO DE VIOLACIÓN",13,Hostigamiento o intimidación sexual,Total por tipo de delito,Total,1322218,997,100.0000,1322218
+2019,SECCIÓN I. TODOS LOS TIPOS DE DELITO,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,Total,2817066,6362,100.0000,2817066
+2019,SECCIÓN I. TODOS LOS TIPOS DE DELITO,03,Vandalismo,Total por tipo de delito,Total,2317653,5441,100.0000,2317653
+2019,SECCIÓN I. TODOS LOS TIPOS DE DELITO,10,Amenazas,Total por tipo de delito,Total,2779312,2611,100.0000,2779312
+2019,SECCIÓN I. TODOS LOS TIPOS DE DELITO,11,Lesiones por agresión física,Total por tipo de delito,Total,1102457,961,100.0000,1102457
+2019,SECCIÓN I. TODOS LOS TIPOS DE DELITO,14,Violación sexual,Total por tipo de delito,Total,96752,102,100.0000,96752
+2019,SECCIÓN I. TODOS LOS TIPOS DE DELITO,15,Otros delitos,Total por tipo de delito,Total,100120,99,100.0000,100120
+2019,SECCIÓN II. ROBO TOTAL DE VEHÍCULO,01,Robo total de vehículo,Total por tipo de delito,Total,645618,1303,100.0000,645618
+2019,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",04,Robo en casa habitación,Total por tipo de delito,Total,1855885,4894,100.0000,1855885
+2019,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",05,Robo o asalto en la calle o transporte público,Total por tipo de delito,Total,8176991,5400,100.0000,8176991
+2019,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",06,Robo en forma distinta a la anterior,Total por tipo de delito,Total,1022807,1117,100.0000,1022807
+2019,SECCIÓN IV. FRAUDE,07,Fraude bancario,Total por tipo de delito,Total,2849823,2658,100.0000,2849823
+2019,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Cheque falso o sin fondos,30724,25,0.6713,4576819
+2019,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Dinero falso,304691,186,6.6573,4576819
+2019,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Otro,61362,71,1.3407,4576819
+2019,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Pago por un servicio/producto no entregado (al consumidor),1961679,1939,42.8612,4576819
+2019,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Por internet/correo electrónico,208360,203,4.5525,4576819
+2019,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Tarjeta de débito o crédito,1988321,1979,43.4433,4576819
+2019,SECCIÓN IV. FRAUDE,08,Fraude al consumidor,Total por tipo de delito,Total,1726996,1770,100.0000,1726996
+2019,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Cobro de piso,33625,36,0.7282,4617275
+2019,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En la calle,216676,191,4.6927,4617275
+2019,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En negocio propio o familiar,87798,53,1.9015,4617275
+2019,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Laboral,59496,45,1.2886,4617275
+2019,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Otro,50786,70,1.0999,4617275
+2019,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Por internet/correo electrónico,30568,24,0.6620,4617275
+2019,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Telefónica,4103683,3767,88.8767,4617275
+2019,SECCIÓN V. EXTORSIÓN,09,Extorsión,Total por tipo de delito,Total,4617275,4212,100.0000,4617275
+2019,SECCIÓN VI. SECUESTRO PARA EXIGIR DINERO O BIENES,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,Total,107274,73,100.0000,107274
+2019,"SECCIÓN VII. HOSTIGAMIENTO, MANOSEO, EXHIBICIONISMO, INTENTO DE VIOLACIÓN",13,Hostigamiento o intimidación sexual,Total por tipo de delito,Total,2374861,1572,100.0000,2374861
+2020,SECCIÓN I. TODOS LOS TIPOS DE DELITO,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,Total,2455282,5769,100.0000,2455282
+2020,SECCIÓN I. TODOS LOS TIPOS DE DELITO,03,Vandalismo,Total por tipo de delito,Total,1807549,4515,100.0000,1807549
+2020,SECCIÓN I. TODOS LOS TIPOS DE DELITO,10,Amenazas,Total por tipo de delito,Total,2672001,2814,100.0000,2672001
+2020,SECCIÓN I. TODOS LOS TIPOS DE DELITO,11,Lesiones por agresión física,Total por tipo de delito,Total,928471,949,100.0000,928471
+2020,SECCIÓN I. TODOS LOS TIPOS DE DELITO,14,Violación sexual,Total por tipo de delito,Total,79364,95,100.0000,79364
+2020,SECCIÓN I. TODOS LOS TIPOS DE DELITO,15,Otros delitos,Total por tipo de delito,Total,115573,123,100.0000,115573
+2020,SECCIÓN II. ROBO TOTAL DE VEHÍCULO,01,Robo total de vehículo,Total por tipo de delito,Total,473640,997,100.0000,473640
+2020,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",04,Robo en casa habitación,Total por tipo de delito,Total,1698038,4552,100.0000,1698038
+2020,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",05,Robo o asalto en la calle o transporte público,Total por tipo de delito,Total,6230798,4554,100.0000,6230798
+2020,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",06,Robo en forma distinta a la anterior,Total por tipo de delito,Total,1397146,1535,100.0000,1397146
+2020,SECCIÓN IV. FRAUDE,07,Fraude bancario,Total por tipo de delito,Total,3200653,3106,100.0000,3200653
+2020,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Cheque falso o sin fondos,21857,15,0.4099,5332430
+2020,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Dinero falso,424673,229,7.9640,5332430
+2020,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Otro,85278,99,1.5992,5332430
+2020,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Pago por un servicio/producto no entregado (al consumidor),2315360,2405,43.4204,5332430
+2020,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Por internet/correo electrónico,215976,227,4.0502,5332430
+2020,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Tarjeta de débito o crédito,2249707,2374,42.1892,5332430
+2020,SECCIÓN IV. FRAUDE,08,Fraude al consumidor,Total por tipo de delito,Total,2131777,2257,100.0000,2131777
+2020,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Cobro de piso,29102,33,0.6244,4660898
+2020,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En la calle,182199,191,3.9091,4660898
+2020,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En negocio propio o familiar,53911,52,1.1567,4660898
+2020,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Laboral,30393,33,0.6521,4660898
+2020,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Otro,75182,67,1.6130,4660898
+2020,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Por internet/correo electrónico,29963,41,0.6429,4660898
+2020,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Telefónica,4229131,4010,90.7364,4660898
+2020,SECCIÓN V. EXTORSIÓN,09,Extorsión,Total por tipo de delito,Total,4660898,4446,100.0000,4660898
+2020,SECCIÓN VI. SECUESTRO PARA EXIGIR DINERO O BIENES,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,Total,54440,63,100.0000,54440
+2020,"SECCIÓN VII. HOSTIGAMIENTO, MANOSEO, EXHIBICIONISMO, INTENTO DE VIOLACIÓN",13,Hostigamiento o intimidación sexual,Total por tipo de delito,Total,1541122,1381,100.0000,1541122
+2021,SECCIÓN I. TODOS LOS TIPOS DE DELITO,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,Total,2560965,5597,100.0000,2560965
+2021,SECCIÓN I. TODOS LOS TIPOS DE DELITO,03,Vandalismo,Total por tipo de delito,Total,1906423,4514,100.0000,1906423
+2021,SECCIÓN I. TODOS LOS TIPOS DE DELITO,10,Amenazas,Total por tipo de delito,Total,2578845,2611,100.0000,2578845
+2021,SECCIÓN I. TODOS LOS TIPOS DE DELITO,11,Lesiones por agresión física,Total por tipo de delito,Total,1005025,939,100.0000,1005025
+2021,SECCIÓN I. TODOS LOS TIPOS DE DELITO,14,Violación sexual,Total por tipo de delito,Total,106955,99,100.0000,106955
+2021,SECCIÓN I. TODOS LOS TIPOS DE DELITO,15,Otros delitos,Total por tipo de delito,Total,73970,101,100.0000,73970
+2021,SECCIÓN II. ROBO TOTAL DE VEHÍCULO,01,Robo total de vehículo,Total por tipo de delito,Total,469082,965,100.0000,469082
+2021,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",04,Robo en casa habitación,Total por tipo de delito,Total,1689483,4439,100.0000,1689483
+2021,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",05,Robo o asalto en la calle o transporte público,Total por tipo de delito,Total,6012888,4019,100.0000,6012888
+2021,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",06,Robo en forma distinta a la anterior,Total por tipo de delito,Total,1273791,1521,100.0000,1273791
+2021,SECCIÓN IV. FRAUDE,07,Fraude bancario,Total por tipo de delito,Total,3180266,2976,100.0000,3180266
+2021,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Cheque falso o sin fondos,22510,16,0.4172,5395988
+2021,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Dinero falso,321040,217,5.9496,5395988
+2021,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Otro,71371,66,1.3227,5395988
+2021,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Pago por un servicio/producto no entregado (al consumidor),2342027,2393,43.4031,5395988
+2021,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Por internet/correo electrónico,201576,211,3.7357,5395988
+2021,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Tarjeta de débito o crédito,2435274,2332,45.1312,5395988
+2021,SECCIÓN IV. FRAUDE,08,Fraude al consumidor,Total por tipo de delito,Total,2215722,2262,100.0000,2215722
+2021,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Cobro de piso,65677,37,1.3376,4910206
+2021,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En la calle,221064,175,4.5021,4910206
+2021,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En negocio propio o familiar,38177,46,0.7775,4910206
+2021,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Laboral,24434,31,0.4976,4910206
+2021,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Otro,83051,66,1.6914,4910206
+2021,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Por internet/correo electrónico,33064,39,0.6734,4910206
+2021,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Telefónica,4432202,4203,90.2651,4910206
+2021,SECCIÓN V. EXTORSIÓN,09,Extorsión,Total por tipo de delito,Total,4910206,4612,100.0000,4910206
+2021,SECCIÓN VI. SECUESTRO PARA EXIGIR DINERO O BIENES,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,Total,49197,58,100.0000,49197
+2021,"SECCIÓN VII. HOSTIGAMIENTO, MANOSEO, EXHIBICIONISMO, INTENTO DE VIOLACIÓN",13,Hostigamiento o intimidación sexual,Total por tipo de delito,Total,1998457,1431,100.0000,1998457
+2022,SECCIÓN I. TODOS LOS TIPOS DE DELITO,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,Total,2244101,5133,100.0000,2244101
+2022,SECCIÓN I. TODOS LOS TIPOS DE DELITO,03,Vandalismo,Total por tipo de delito,Total,1774162,4147,100.0000,1774162
+2022,SECCIÓN I. TODOS LOS TIPOS DE DELITO,10,Amenazas,Total por tipo de delito,Total,2757624,2778,100.0000,2757624
+2022,SECCIÓN I. TODOS LOS TIPOS DE DELITO,11,Lesiones por agresión física,Total por tipo de delito,Total,1017768,908,100.0000,1017768
+2022,SECCIÓN I. TODOS LOS TIPOS DE DELITO,14,Violación sexual,Total por tipo de delito,Total,94241,106,100.0000,94241
+2022,SECCIÓN I. TODOS LOS TIPOS DE DELITO,15,Otros delitos,Total por tipo de delito,Total,122904,150,100.0000,122904
+2022,SECCIÓN II. ROBO TOTAL DE VEHÍCULO,01,Robo total de vehículo,Total por tipo de delito,Total,446905,925,100.0000,446905
+2022,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",04,Robo en casa habitación,Total por tipo de delito,Total,1593137,4134,100.0000,1593137
+2022,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",05,Robo o asalto en la calle o transporte público,Total por tipo de delito,Total,5318660,3819,100.0000,5318660
+2022,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",06,Robo en forma distinta a la anterior,Total por tipo de delito,Total,1267294,1471,100.0000,1267294
+2022,SECCIÓN IV. FRAUDE,07,Fraude bancario,Total por tipo de delito,Total,3190116,3046,100.0000,3190116
+2022,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Cheque falso o sin fondos,20124,14,0.3731,5394290
+2022,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Dinero falso,269658,171,4.9990,5394290
+2022,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Otro,54316,50,1.0069,5394290
+2022,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Pago por un servicio/producto no entregado (al consumidor),2361782,2453,43.7830,5394290
+2022,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Por internet/correo electrónico,243215,199,4.5087,5394290
+2022,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Tarjeta de débito o crédito,2441178,2452,45.2549,5394290
+2022,SECCIÓN IV. FRAUDE,08,Fraude al consumidor,Total por tipo de delito,Total,2204174,2299,100.0000,2204174
+2022,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Cobro de piso,33211,29,0.7026,4726724
+2022,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En la calle,249201,240,5.2722,4726724
+2022,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En negocio propio o familiar,36574,46,0.7738,4726724
+2022,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Laboral,32512,44,0.6878,4726724
+2022,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Otro,59999,75,1.2694,4726724
+2022,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Por internet/correo electrónico,51623,57,1.0922,4726724
+2022,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Telefónica,4258130,4116,90.0863,4726724
+2022,SECCIÓN V. EXTORSIÓN,09,Extorsión,Total por tipo de delito,Total,4726724,4616,100.0000,4726724
+2022,SECCIÓN VI. SECUESTRO PARA EXIGIR DINERO O BIENES,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,Total,57030,65,100.0000,57030
+2022,"SECCIÓN VII. HOSTIGAMIENTO, MANOSEO, EXHIBICIONISMO, INTENTO DE VIOLACIÓN",13,Hostigamiento o intimidación sexual,Total por tipo de delito,Total,1793600,1538,100.0000,1793600
+2023,SECCIÓN I. TODOS LOS TIPOS DE DELITO,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,Total,2741397,5712,100.0000,2741397
+2023,SECCIÓN I. TODOS LOS TIPOS DE DELITO,03,Vandalismo,Total por tipo de delito,Total,2139424,4732,100.0000,2139424
+2023,SECCIÓN I. TODOS LOS TIPOS DE DELITO,10,Amenazas,Total por tipo de delito,Total,3146232,2866,100.0000,3146232
+2023,SECCIÓN I. TODOS LOS TIPOS DE DELITO,11,Lesiones por agresión física,Total por tipo de delito,Total,1508588,1256,100.0000,1508588
+2023,SECCIÓN I. TODOS LOS TIPOS DE DELITO,14,Violación sexual,Total por tipo de delito,Total,96946,94,100.0000,96946
+2023,SECCIÓN I. TODOS LOS TIPOS DE DELITO,15,Otros delitos,Total por tipo de delito,Total,162768,154,100.0000,162768
+2023,SECCIÓN II. ROBO TOTAL DE VEHÍCULO,01,Robo total de vehículo,Total por tipo de delito,Total,532701,1035,100.0000,532701
+2023,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",04,Robo en casa habitación,Total por tipo de delito,Total,1637965,4084,100.0000,1637965
+2023,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",05,Robo o asalto en la calle o transporte público,Total por tipo de delito,Total,6136712,3951,100.0000,6136712
+2023,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",06,Robo en forma distinta a la anterior,Total por tipo de delito,Total,1513412,1608,100.0000,1513412
+2023,SECCIÓN IV. FRAUDE,07,Fraude bancario,Total por tipo de delito,Total,3587819,3278,100.0000,3587819
+2023,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Cheque falso o sin fondos,18511,17,0.2827,6547223
+2023,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Dinero falso,264969,149,4.0470,6547223
+2023,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Otro,60149,66,0.9187,6547223
+2023,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Pago por un servicio/producto no entregado (al consumidor),3202141,2990,48.9084,6547223
+2023,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Por internet/correo electrónico,329826,283,5.0376,6547223
+2023,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Tarjeta de débito o crédito,2663873,2556,40.6871,6547223
+2023,SECCIÓN IV. FRAUDE,08,Fraude al consumidor,Total por tipo de delito,Total,2959404,2788,100.0000,2959404
+2023,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Cobro de piso,36381,35,0.7421,4902122
+2023,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En la calle,342993,263,6.9968,4902122
+2023,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,En negocio propio o familiar,83721,54,1.7079,4902122
+2023,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Laboral,48198,43,0.9832,4902122
+2023,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Otro,65073,64,1.3274,4902122
+2023,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Por internet/correo electrónico,88319,90,1.8016,4902122
+2023,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue...?,Telefónica,4194543,3893,85.5659,4902122
+2023,SECCIÓN V. EXTORSIÓN,09,Extorsión,Total por tipo de delito,Total,4902122,4468,100.0000,4902122
+2023,SECCIÓN VI. SECUESTRO PARA EXIGIR DINERO O BIENES,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,Total,72559,67,100.0000,72559
+2023,"SECCIÓN VII. HOSTIGAMIENTO, MANOSEO, EXHIBICIONISMO, INTENTO DE VIOLACIÓN",13,Hostigamiento o intimidación sexual,Total por tipo de delito,Total,2285064,1521,100.0000,2285064
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,Total,2686135,5782,100.0000,2686135
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,03,Vandalismo,Total por tipo de delito,Total,2145654,4799,100.0000,2145654
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,07,Fraude bancario,1.5a ¿El (DELITO) se realizó por medio de...?,Contacto presencial,537741,406,13.4032,4012043
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,07,Fraude bancario,1.5a ¿El (DELITO) se realizó por medio de...?,"Internet o medios electrónicos (redes sociales, correo electrónico, banca electrónica, etcétera)",3091750,2993,77.0617,4012043
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,07,Fraude bancario,1.5a ¿El (DELITO) se realizó por medio de...?,Llamada telefónica,323971,318,8.0750,4012043
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,07,Fraude bancario,1.5a ¿El (DELITO) se realizó por medio de...?,No sabe / no responde,47951,45,1.1952,4012043
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,07,Fraude bancario,1.5a ¿El (DELITO) se realizó por medio de...?,Otro,50808,33,1.2664,4012043
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,08,Fraude al consumidor,1.5a ¿El (DELITO) se realizó por medio de...?,Contacto presencial,747712,676,23.0516,3243646
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,08,Fraude al consumidor,1.5a ¿El (DELITO) se realizó por medio de...?,"Internet o medios electrónicos (redes sociales, correo electrónico, banca electrónica, etcétera)",2258830,2182,69.6386,3243646
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,08,Fraude al consumidor,1.5a ¿El (DELITO) se realizó por medio de...?,Llamada telefónica,302634,261,9.3301,3243646
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,08,Fraude al consumidor,1.5a ¿El (DELITO) se realizó por medio de...?,No sabe / no responde,3667,4,0.1131,3243646
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,08,Fraude al consumidor,1.5a ¿El (DELITO) se realizó por medio de...?,Otro,5270,6,0.1625,3243646
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,09,Extorsión,1.5a ¿El (DELITO) se realizó por medio de...?,Contacto presencial,523656,447,9.1549,5719981
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,09,Extorsión,1.5a ¿El (DELITO) se realizó por medio de...?,"Internet o medios electrónicos (redes sociales, correo electrónico, banca electrónica, etcétera)",343963,327,6.0134,5719981
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,09,Extorsión,1.5a ¿El (DELITO) se realizó por medio de...?,Llamada telefónica,4895851,4619,85.5921,5719981
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,09,Extorsión,1.5a ¿El (DELITO) se realizó por medio de...?,No sabe / no responde,32717,27,0.5720,5719981
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,09,Extorsión,1.5a ¿El (DELITO) se realizó por medio de...?,Otro,12459,9,0.2178,5719981
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,10,Amenazas,1.5a ¿El (DELITO) se realizó por medio de...?,Contacto presencial,2757727,2486,61.4745,4485971
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,10,Amenazas,1.5a ¿El (DELITO) se realizó por medio de...?,"Internet o medios electrónicos (redes sociales, correo electrónico, banca electrónica, etcétera)",699379,493,15.5904,4485971
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,10,Amenazas,1.5a ¿El (DELITO) se realizó por medio de...?,Llamada telefónica,1103824,1037,24.6061,4485971
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,10,Amenazas,1.5a ¿El (DELITO) se realizó por medio de...?,No sabe / no responde,32887,20,0.7331,4485971
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,10,Amenazas,1.5a ¿El (DELITO) se realizó por medio de...?,Otro,35787,39,0.7978,4485971
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,10,Amenazas,Total por tipo de delito,Total,4485971,3942,100.0000,4485971
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,11,Lesiones por agresión física,Total por tipo de delito,Total,1523988,1316,100.0000,1523988
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,13,Hostigamiento o intimidación sexual,1.5a ¿El (DELITO) se realizó por medio de...?,Contacto presencial,2173448,1531,97.1456,2237310
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,13,Hostigamiento o intimidación sexual,1.5a ¿El (DELITO) se realizó por medio de...?,"Internet o medios electrónicos (redes sociales, correo electrónico, banca electrónica, etcétera)",59181,65,2.6452,2237310
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,13,Hostigamiento o intimidación sexual,1.5a ¿El (DELITO) se realizó por medio de...?,Llamada telefónica,21789,25,0.9739,2237310
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,13,Hostigamiento o intimidación sexual,1.5a ¿El (DELITO) se realizó por medio de...?,No sabe / no responde,1140,3,0.0510,2237310
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,13,Hostigamiento o intimidación sexual,1.5a ¿El (DELITO) se realizó por medio de...?,Otro,8646,11,0.3864,2237310
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,14,Violación sexual,Total por tipo de delito,Total,167340,135,100.0000,167340
+2024,SECCIÓN I. TODOS LOS TIPOS DE DELITO,15,Otros delitos,Total por tipo de delito,Total,250390,217,100.0000,250390
+2024,SECCIÓN II. ROBO TOTAL DE VEHÍCULO,01,Robo total de vehículo,Total por tipo de delito,Total,526230,1028,100.0000,526230
+2024,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",04,Robo en casa habitación,Total por tipo de delito,Total,1535043,3909,100.0000,1535043
+2024,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",05,Robo o asalto en la calle o transporte público,Total por tipo de delito,Total,5750434,4014,100.0000,5750434
+2024,"SECCIÓN III. ROBO EN CASA HABITACIÓN, ASALTO EN LA CALLE O TRANSPORTE PÚBLICO O ROBO DISTINTO DE LOS ANTERIORES",06,Robo en forma distinta a la anterior,Total por tipo de delito,Total,1236012,1298,100.0000,1236012
+2024,SECCIÓN IV. FRAUDE,07,Fraude bancario,Total por tipo de delito,Total,4012043,3754,100.0000,4012043
+2024,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Cheque falso o sin fondos,13253,12,0.1827,7255689
+2024,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Dinero falso,211590,157,2.9162,7255689
+2024,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Otro,53559,42,0.7382,7255689
+2024,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Pago por un servicio/producto no entregado (al consumidor),3511814,3317,48.4008,7255689
+2024,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Por internet/correo electrónico,351065,323,4.8385,7255689
+2024,SECCIÓN IV. FRAUDE,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,Tarjeta de débito o crédito,3100032,2967,42.7255,7255689
+2024,SECCIÓN IV. FRAUDE,08,Fraude al consumidor,Total por tipo de delito,Total,3243646,3070,100.0000,3243646
+2024,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue de tipo...?,Cobro de piso,982361,935,17.1742,5719981
+2024,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue de tipo...?,Laboral,595196,559,10.4056,5719981
+2024,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1 ¿La extorsión fue de tipo...?,Otro,4142424,3840,72.4202,5719981
+2024,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1a ¿La extorsión sucedió en...?,En la calle,271865,214,51.9167,5719981
+2024,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1a ¿La extorsión sucedió en...?,En negocio propio o familiar,81510,81,15.5656,5719981
+2024,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1a ¿La extorsión sucedió en...?,En su casa,137638,124,26.2840,5719981
+2024,SECCIÓN V. EXTORSIÓN,09,Extorsión,5.1a ¿La extorsión sucedió en...?,Otro lugar,45430,37,8.6755,5719981
+2024,SECCIÓN V. EXTORSIÓN,09,Extorsión,Total por tipo de delito,Total,5719981,5334,100.0000,5719981
+2024,SECCIÓN VI. SECUESTRO PARA EXIGIR DINERO O BIENES,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,Total,75698,76,100.0000,75698
+2024,"SECCIÓN VII. HOSTIGAMIENTO, MANOSEO, EXHIBICIONISMO, INTENTO DE VIOLACIÓN",13,Hostigamiento o intimidación sexual,Total por tipo de delito,Total,2237310,1606,100.0000,2237310
