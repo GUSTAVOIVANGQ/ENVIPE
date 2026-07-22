@@ -51,7 +51,7 @@ from pathlib import Path
 import pandas as pd
 
 # ── Configuración ──────────────────────────────────────────────────────────────
-DEFAULT_ZIP_DIR = Path(".")
+DEFAULT_ZIP_DIR = Path("conjunto_de_datos")
 OUTPUT_FILE     = Path("ENVIPE_DELITO_MODALIDAD.csv")
 
 FAC_CANDIDATOS = ["FAC_DEL", "FACTOR", "FACTOR_EXP", "FAC_VIC", "POND"]
@@ -400,29 +400,29 @@ def main():
     for zip_path in zips:
         year_zip  = year_from_zip(zip_path)
         year_data = year_zip - 1   # el ZIP de N contiene datos del año N-1
-        print(f"Procesando datos de {year_data} desde {zip_path.name} …")
+        print(f"Procesando datos de {year_data} desde {zip_path.name} ...")
 
         try:
             with zipfile.ZipFile(zip_path, "r") as zf:
                 entry = find_tmod_entry(zf)
                 if not entry:
-                    print(f"  ⚠ No se encontró TMod_Vic.dbf en {zip_path.name}")
+                    print(f"  [!] No se encontró TMod_Vic.dbf en {zip_path.name}")
                     continue
                 data = zf.read(entry)
             df_raw = read_dbf_from_bytes(data)
         except Exception as e:
-            print(f"  ✗ Error en {zip_path.name}: {e}")
+            print(f"  [X] Error en {zip_path.name}: {e}")
             continue
 
         df, fac_col = preparar_df(df_raw, year_data)
         if fac_col is None:
-            print(f"  ⚠ No se encontró columna de factor en {zip_path.name}")
+            print(f"  [!] No se encontró columna de factor en {zip_path.name}")
             continue
 
-        modo = "OLD (BPCOD histórico ≤2011)" if year_data < BPCOD_BREAK_DATA_YEAR else "NEW (BPCOD actual)"
+        modo = "OLD (BPCOD histórico <=2011)" if year_data < BPCOD_BREAK_DATA_YEAR else "NEW (BPCOD actual)"
         rows = calcular_year(df, year_data, fac_col)
         all_rows.extend(rows)
-        print(f"  ✓ {len(rows)} filas generadas  [{modo}]")
+        print(f"  [OK] {len(rows)} filas generadas  [{modo}]")
 
     if not all_rows:
         print("No se generaron datos.")
@@ -436,7 +436,7 @@ def main():
 
     out_path = Path(args.out)
     df_out.to_csv(out_path, index=False, encoding="utf-8-sig")
-    print(f"\n✓ ¡Éxito! CSV guardado en {out_path} ({len(df_out)} filas)")
+    print(f"\n[OK] ¡Éxito! CSV guardado en {out_path} ({len(df_out)} filas)")
 
 if __name__ == "__main__":
     main()

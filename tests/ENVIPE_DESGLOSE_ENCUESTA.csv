@@ -1,0 +1,441 @@
+﻿anio,seccion,codigo_delito,delito,pregunta,variable,codigo_respuesta,respuesta,tipo_respuesta,estimacion,muestra,porcentaje_base,base_porcentaje
+2010,I. Todos los tipos de delito,01,Robo total de vehículo,Total por tipo de delito,BPCOD,,Total,Total,434786,1232,100.0000,Total del mismo delito
+2010,I. Todos los tipos de delito,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,BPCOD,,Total,Total,2369345,5642,100.0000,Total del mismo delito
+2010,I. Todos los tipos de delito,03,Robo en casa habitación,Total por tipo de delito,BPCOD,,Total,Total,1601746,4067,100.0000,Total del mismo delito
+2010,I. Todos los tipos de delito,04,Robo o asalto en la calle o transporte público,Total por tipo de delito,BPCOD,,Total,Total,5617621,4126,100.0000,Total del mismo delito
+2010,I. Todos los tipos de delito,05,Robo en forma distinta a los anteriores,Total por tipo de delito,BPCOD,,Total,Total,1426278,1470,100.0000,Total del mismo delito
+2010,I. Todos los tipos de delito,06,Clonación de tarjeta o fraude bancario,Total por tipo de delito,BPCOD,,Total,Total,1010803,942,100.0000,Total del mismo delito
+2010,I. Todos los tipos de delito,07,Fraude al consumidor,Total por tipo de delito,BPCOD,,Total,Total,1003742,958,100.0000,Total del mismo delito
+2010,I. Todos los tipos de delito,08,Extorsión,Total por tipo de delito,BPCOD,,Total,Total,5485470,5067,100.0000,Total del mismo delito
+2010,I. Todos los tipos de delito,09,Amenazas verbales,Total por tipo de delito,BPCOD,,Total,Total,1832944,1658,100.0000,Total del mismo delito
+2010,I. Todos los tipos de delito,10,Lesiones por agresión física,Total por tipo de delito,BPCOD,,Total,Total,1182473,980,100.0000,Total del mismo delito
+2010,I. Todos los tipos de delito,11,Secuestro para exigir dinero o bienes,Total por tipo de delito,BPCOD,,Total,Total,114500,86,100.0000,Total del mismo delito
+2010,I. Todos los tipos de delito,12,"Hostigamiento, manoseo, exhibicionismo o intento de violación",Total por tipo de delito,BPCOD,,Total,Total,724127,580,100.0000,Total del mismo delito
+2010,I. Todos los tipos de delito,13,Violación sexual,Total por tipo de delito,BPCOD,,Total,Total,15610,22,100.0000,Total del mismo delito
+2010,I. Todos los tipos de delito,14,Otros delitos,Total por tipo de delito,BPCOD,,Total,Total,320138,356,100.0000,Total del mismo delito
+2010,IV. Fraude,07,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,1,Cheque falso,Única,19787,15,1.9713,Total de fraudes incluidos en la sección IV
+2010,IV. Fraude,07,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,2,Pago por un servicio/producto no entregado (al consumidor),Única,822639,810,81.9572,Total de fraudes incluidos en la sección IV
+2010,IV. Fraude,07,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,3,Por internet/correo electrónico,Única,59425,35,5.9203,Total de fraudes incluidos en la sección IV
+2010,IV. Fraude,07,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,4,Otro,Única,31951,23,3.1832,Total de fraudes incluidos en la sección IV
+2010,V. Extorsión,08,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,1,Telefónica,Única,4868818,4643,88.7584,Total de extorsiones
+2010,V. Extorsión,08,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,2,Laboral,Única,74594,52,1.3598,Total de extorsiones
+2010,V. Extorsión,08,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,3,Por internet/correo electrónico,Única,81965,5,1.4942,Total de extorsiones
+2010,V. Extorsión,08,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,4,En la calle,Única,225693,149,4.1144,Total de extorsiones
+2010,V. Extorsión,08,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,5,En negocio propio o familiar,Única,75436,69,1.3752,Total de extorsiones
+2010,V. Extorsión,08,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,6,Cobro de piso,Única,12120,14,0.2209,Total de extorsiones
+2010,V. Extorsión,08,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,7,Otro,Única,51188,68,0.9332,Total de extorsiones
+2011,I. Todos los tipos de delito,01,Robo total de vehículo,Total por tipo de delito,BPCOD,,Total,Total,611371,1655,100.0000,Total del mismo delito
+2011,I. Todos los tipos de delito,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,BPCOD,,Total,Total,2549418,7316,100.0000,Total del mismo delito
+2011,I. Todos los tipos de delito,03,Robo en casa habitación,Total por tipo de delito,BPCOD,,Total,Total,1726861,5161,100.0000,Total del mismo delito
+2011,I. Todos los tipos de delito,04,Robo o asalto en la calle o transporte público,Total por tipo de delito,BPCOD,,Total,Total,6633702,5066,100.0000,Total del mismo delito
+2011,I. Todos los tipos de delito,05,Robo en forma distinta a los anteriores,Total por tipo de delito,BPCOD,,Total,Total,1108614,1227,100.0000,Total del mismo delito
+2011,I. Todos los tipos de delito,06,Clonación de tarjeta o fraude bancario,Total por tipo de delito,BPCOD,,Total,Total,1102434,1407,100.0000,Total del mismo delito
+2011,I. Todos los tipos de delito,07,Fraude al consumidor,Total por tipo de delito,BPCOD,,Total,Total,832275,1107,100.0000,Total del mismo delito
+2011,I. Todos los tipos de delito,08,Extorsión,Total por tipo de delito,BPCOD,,Total,Total,4375640,5095,100.0000,Total del mismo delito
+2011,I. Todos los tipos de delito,09,Amenazas verbales,Total por tipo de delito,BPCOD,,Total,Total,1752102,2294,100.0000,Total del mismo delito
+2011,I. Todos los tipos de delito,10,Lesiones por agresión física,Total por tipo de delito,BPCOD,,Total,Total,927501,1063,100.0000,Total del mismo delito
+2011,I. Todos los tipos de delito,11,Secuestro para exigir dinero o bienes,Total por tipo de delito,BPCOD,,Total,Total,98846,81,100.0000,Total del mismo delito
+2011,I. Todos los tipos de delito,12,"Hostigamiento, manoseo, exhibicionismo o intento de violación",Total por tipo de delito,BPCOD,,Total,Total,740477,790,100.0000,Total del mismo delito
+2011,I. Todos los tipos de delito,13,Violación sexual,Total por tipo de delito,BPCOD,,Total,Total,41406,74,100.0000,Total del mismo delito
+2011,I. Todos los tipos de delito,14,Otros delitos,Total por tipo de delito,BPCOD,,Total,Total,101658,157,100.0000,Total del mismo delito
+2011,IV. Fraude,07,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,1,Cheque falso,Única,36505,36,4.3862,Total de fraudes incluidos en la sección IV
+2011,IV. Fraude,07,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,2,Pago por un servicio/producto no entregado (al consumidor),Única,659505,888,79.2412,Total de fraudes incluidos en la sección IV
+2011,IV. Fraude,07,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,3,Tarjeta de débito o crédito,Única,34703,43,4.1697,Total de fraudes incluidos en la sección IV
+2011,IV. Fraude,07,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,4,Por internet/correo electrónico,Única,31878,33,3.8302,Total de fraudes incluidos en la sección IV
+2011,IV. Fraude,07,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,5,Otro,Única,30225,29,3.6316,Total de fraudes incluidos en la sección IV
+2011,V. Extorsión,08,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,1,Telefónica,Única,3894150,4591,88.9961,Total de extorsiones
+2011,V. Extorsión,08,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,2,Laboral,Única,51196,70,1.1700,Total de extorsiones
+2011,V. Extorsión,08,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,3,Por internet/correo electrónico,Única,1838,5,0.0420,Total de extorsiones
+2011,V. Extorsión,08,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,4,En la calle,Única,212704,212,4.8611,Total de extorsiones
+2011,V. Extorsión,08,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,5,En negocio propio o familiar,Única,61423,50,1.4037,Total de extorsiones
+2011,V. Extorsión,08,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,6,Cobro de piso,Única,39888,26,0.9116,Total de extorsiones
+2011,V. Extorsión,08,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,7,Otro,Única,55063,62,1.2584,Total de extorsiones
+2012,I. Todos los tipos de delito,01,Robo total de vehículo,Total por tipo de delito,BPCOD,,Total,Total,622462,1588,100.0000,Total del mismo delito
+2012,I. Todos los tipos de delito,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,BPCOD,,Total,Total,3340576,8726,100.0000,Total del mismo delito
+2012,I. Todos los tipos de delito,03,Vandalismo,Total por tipo de delito,BPCOD,,Total,Total,3758143,9857,100.0000,Total del mismo delito
+2012,I. Todos los tipos de delito,04,Robo en casa habitación,Total por tipo de delito,BPCOD,,Total,Total,2099285,6266,100.0000,Total del mismo delito
+2012,I. Todos los tipos de delito,05,Robo o asalto en la calle o transporte público,Total por tipo de delito,BPCOD,,Total,Total,7931693,5821,100.0000,Total del mismo delito
+2012,I. Todos los tipos de delito,06,Robo en forma distinta a la anterior,Total por tipo de delito,BPCOD,,Total,Total,396846,434,100.0000,Total del mismo delito
+2012,I. Todos los tipos de delito,07,Fraude bancario,Total por tipo de delito,BPCOD,,Total,Total,1325757,1551,100.0000,Total del mismo delito
+2012,I. Todos los tipos de delito,08,Fraude al consumidor,Total por tipo de delito,BPCOD,,Total,Total,1296842,1707,100.0000,Total del mismo delito
+2012,I. Todos los tipos de delito,09,Extorsión,Total por tipo de delito,BPCOD,,Total,Total,5994034,6388,100.0000,Total del mismo delito
+2012,I. Todos los tipos de delito,10,Amenazas,Total por tipo de delito,BPCOD,,Total,Total,2854710,3038,100.0000,Total del mismo delito
+2012,I. Todos los tipos de delito,11,Lesiones por agresión física,Total por tipo de delito,BPCOD,,Total,Total,1087761,1012,100.0000,Total del mismo delito
+2012,I. Todos los tipos de delito,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,BPCOD,,Total,Total,89086,82,100.0000,Total del mismo delito
+2012,I. Todos los tipos de delito,13,Hostigamiento o intimidación sexual,Total por tipo de delito,BPCOD,,Total,Total,577716,485,100.0000,Total del mismo delito
+2012,I. Todos los tipos de delito,14,Violación sexual,Total por tipo de delito,BPCOD,,Total,Total,89873,81,100.0000,Total del mismo delito
+2012,I. Todos los tipos de delito,15,Otros delitos,Total por tipo de delito,BPCOD,,Total,Total,62806,81,100.0000,Total del mismo delito
+2012,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,1,Cheque falso o sin fondos,Única,32950,47,1.2564,Total de fraudes incluidos en la sección IV
+2012,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,2,Dinero falso,Única,284161,224,10.8351,Total de fraudes incluidos en la sección IV
+2012,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,3,Pago por un servicio/producto no entregado (al consumidor),Única,1093589,1428,41.6987,Total de fraudes incluidos en la sección IV
+2012,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,4,Tarjeta de débito o crédito,Única,914624,1200,34.8747,Total de fraudes incluidos en la sección IV
+2012,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,5,Por internet/correo electrónico,Única,55002,79,2.0972,Total de fraudes incluidos en la sección IV
+2012,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,6,Otro,Única,169014,192,6.4445,Total de fraudes incluidos en la sección IV
+2012,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,1,Telefónica,Única,5505341,5811,91.8470,Total de extorsiones
+2012,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,2,Laboral,Única,40998,46,0.6840,Total de extorsiones
+2012,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,3,Por internet/correo electrónico,Única,23379,23,0.3900,Total de extorsiones
+2012,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,4,En la calle,Única,182982,236,3.0527,Total de extorsiones
+2012,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,5,En negocio propio o familiar,Única,65394,94,1.0910,Total de extorsiones
+2012,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,6,Cobro de piso,Única,32623,30,0.5443,Total de extorsiones
+2012,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,7,Otro,Única,48934,57,0.8164,Total de extorsiones
+2013,I. Todos los tipos de delito,01,Robo total de vehículo,Total por tipo de delito,BPCOD,,Total,Total,601157,1235,100.0000,Total del mismo delito
+2013,I. Todos los tipos de delito,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,BPCOD,,Total,Total,3358372,7349,100.0000,Total del mismo delito
+2013,I. Todos los tipos de delito,03,Vandalismo,Total por tipo de delito,BPCOD,,Total,Total,4150876,8164,100.0000,Total del mismo delito
+2013,I. Todos los tipos de delito,04,Robo en casa habitación,Total por tipo de delito,BPCOD,,Total,Total,2141103,5804,100.0000,Total del mismo delito
+2013,I. Todos los tipos de delito,05,Robo o asalto en la calle o transporte público,Total por tipo de delito,BPCOD,,Total,Total,9787891,5424,100.0000,Total del mismo delito
+2013,I. Todos los tipos de delito,06,Robo en forma distinta a la anterior,Total por tipo de delito,BPCOD,,Total,Total,1213624,1455,100.0000,Total del mismo delito
+2013,I. Todos los tipos de delito,07,Fraude bancario,Total por tipo de delito,BPCOD,,Total,Total,1494570,1300,100.0000,Total del mismo delito
+2013,I. Todos los tipos de delito,08,Fraude al consumidor,Total por tipo de delito,BPCOD,,Total,Total,1674891,1594,100.0000,Total del mismo delito
+2013,I. Todos los tipos de delito,09,Extorsión,Total por tipo de delito,BPCOD,,Total,Total,7794040,6373,100.0000,Total del mismo delito
+2013,I. Todos los tipos de delito,10,Amenazas,Total por tipo de delito,BPCOD,,Total,Total,3031965,3008,100.0000,Total del mismo delito
+2013,I. Todos los tipos de delito,11,Lesiones por agresión física,Total por tipo de delito,BPCOD,,Total,Total,1038026,919,100.0000,Total del mismo delito
+2013,I. Todos los tipos de delito,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,BPCOD,,Total,Total,85821,76,100.0000,Total del mismo delito
+2013,I. Todos los tipos de delito,13,Hostigamiento o intimidación sexual,Total por tipo de delito,BPCOD,,Total,Total,682238,575,100.0000,Total del mismo delito
+2013,I. Todos los tipos de delito,14,Violación sexual,Total por tipo de delito,BPCOD,,Total,Total,97662,82,100.0000,Total del mismo delito
+2013,I. Todos los tipos de delito,15,Otros delitos,Total por tipo de delito,BPCOD,,Total,Total,88903,120,100.0000,Total del mismo delito
+2013,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,1,Pago por un servicio/producto no entregado (al consumidor),Única,1764217,1664,55.6630,Total de fraudes incluidos en la sección IV
+2013,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,2,Cheque falso o sin fondos,Única,39658,25,1.2513,Total de fraudes incluidos en la sección IV
+2013,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,3,Dinero falso,Única,216486,154,6.8304,Total de fraudes incluidos en la sección IV
+2013,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,4,Tarjeta de débito o crédito,Única,1077199,976,33.9868,Total de fraudes incluidos en la sección IV
+2013,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,5,Por internet/correo electrónico,Única,47148,43,1.4876,Total de fraudes incluidos en la sección IV
+2013,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,6,Otro,Única,17429,22,0.5499,Total de fraudes incluidos en la sección IV
+2013,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,1,Telefónica,Única,7323178,5965,93.9587,Total de extorsiones
+2013,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,2,Laboral,Única,43416,31,0.5570,Total de extorsiones
+2013,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,3,Por internet/correo electrónico,Única,17266,17,0.2215,Total de extorsiones
+2013,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,4,En la calle,Única,171406,154,2.1992,Total de extorsiones
+2013,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,5,En negocio propio o familiar,Única,133761,90,1.7162,Total de extorsiones
+2013,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,6,Cobro de piso,Única,22140,23,0.2841,Total de extorsiones
+2013,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,7,Otro,Única,59202,71,0.7596,Total de extorsiones
+2014,I. Todos los tipos de delito,01,Robo total de vehículo,Total por tipo de delito,BPCOD,,Total,Total,545052,1131,100.0000,Total del mismo delito
+2014,I. Todos los tipos de delito,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,BPCOD,,Total,Total,3408567,7685,100.0000,Total del mismo delito
+2014,I. Todos los tipos de delito,03,Vandalismo,Total por tipo de delito,BPCOD,,Total,Total,3829856,8279,100.0000,Total del mismo delito
+2014,I. Todos los tipos de delito,04,Robo en casa habitación,Total por tipo de delito,BPCOD,,Total,Total,2050088,5651,100.0000,Total del mismo delito
+2014,I. Todos los tipos de delito,05,Robo o asalto en la calle o transporte público,Total por tipo de delito,BPCOD,,Total,Total,9631471,5357,100.0000,Total del mismo delito
+2014,I. Todos los tipos de delito,06,Robo en forma distinta a la anterior,Total por tipo de delito,BPCOD,,Total,Total,1192869,1482,100.0000,Total del mismo delito
+2014,I. Todos los tipos de delito,07,Fraude bancario,Total por tipo de delito,BPCOD,,Total,Total,1744375,1539,100.0000,Total del mismo delito
+2014,I. Todos los tipos de delito,08,Fraude al consumidor,Total por tipo de delito,BPCOD,,Total,Total,1698382,1699,100.0000,Total del mismo delito
+2014,I. Todos los tipos de delito,09,Extorsión,Total por tipo de delito,BPCOD,,Total,Total,7969585,7113,100.0000,Total del mismo delito
+2014,I. Todos los tipos de delito,10,Amenazas,Total por tipo de delito,BPCOD,,Total,Total,3324903,3022,100.0000,Total del mismo delito
+2014,I. Todos los tipos de delito,11,Lesiones por agresión física,Total por tipo de delito,BPCOD,,Total,Total,1159244,950,100.0000,Total del mismo delito
+2014,I. Todos los tipos de delito,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,BPCOD,,Total,Total,79263,81,100.0000,Total del mismo delito
+2014,I. Todos los tipos de delito,13,Hostigamiento o intimidación sexual,Total por tipo de delito,BPCOD,,Total,Total,745170,552,100.0000,Total del mismo delito
+2014,I. Todos los tipos de delito,14,Violación sexual,Total por tipo de delito,BPCOD,,Total,Total,90487,67,100.0000,Total del mismo delito
+2014,I. Todos los tipos de delito,15,Otros delitos,Total por tipo de delito,BPCOD,,Total,Total,64576,91,100.0000,Total del mismo delito
+2014,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,1,Pago por un servicio/producto no entregado (al consumidor),Única,1814676,1798,52.7100,Total de fraudes incluidos en la sección IV
+2014,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,2,Cheque falso o sin fondos,Única,38733,17,1.1251,Total de fraudes incluidos en la sección IV
+2014,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,3,Dinero falso,Única,326131,236,9.4730,Total de fraudes incluidos en la sección IV
+2014,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,4,Tarjeta de débito o crédito,Única,1143511,1079,33.2150,Total de fraudes incluidos en la sección IV
+2014,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,5,Por internet/correo electrónico,Única,49928,55,1.4502,Total de fraudes incluidos en la sección IV
+2014,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,6,Otro,Única,33632,34,0.9769,Total de fraudes incluidos en la sección IV
+2014,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,1,Telefónica,Única,7546896,6671,94.6962,Total de extorsiones
+2014,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,2,Laboral,Única,34268,34,0.4300,Total de extorsiones
+2014,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,3,Por internet/correo electrónico,Única,16294,17,0.2045,Total de extorsiones
+2014,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,4,En la calle,Única,204662,192,2.5680,Total de extorsiones
+2014,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,5,En negocio propio o familiar,Única,55188,66,0.6925,Total de extorsiones
+2014,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,6,Cobro de piso,Única,31281,17,0.3925,Total de extorsiones
+2014,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,7,Otro,Única,66733,94,0.8373,Total de extorsiones
+2015,I. Todos los tipos de delito,01,Robo total de vehículo,Total por tipo de delito,BPCOD,,Total,Total,452001,965,100.0000,Total del mismo delito
+2015,I. Todos los tipos de delito,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,BPCOD,,Total,Total,2854511,6679,100.0000,Total del mismo delito
+2015,I. Todos los tipos de delito,03,Vandalismo,Total por tipo de delito,BPCOD,,Total,Total,2737485,6443,100.0000,Total del mismo delito
+2015,I. Todos los tipos de delito,04,Robo en casa habitación,Total por tipo de delito,BPCOD,,Total,Total,2061119,5598,100.0000,Total del mismo delito
+2015,I. Todos los tipos de delito,05,Robo o asalto en la calle o transporte público,Total por tipo de delito,BPCOD,,Total,Total,8252297,4839,100.0000,Total del mismo delito
+2015,I. Todos los tipos de delito,06,Robo en forma distinta a la anterior,Total por tipo de delito,BPCOD,,Total,Total,1088607,1202,100.0000,Total del mismo delito
+2015,I. Todos los tipos de delito,07,Fraude bancario,Total por tipo de delito,BPCOD,,Total,Total,1770824,1550,100.0000,Total del mismo delito
+2015,I. Todos los tipos de delito,08,Fraude al consumidor,Total por tipo de delito,BPCOD,,Total,Total,1454341,1623,100.0000,Total del mismo delito
+2015,I. Todos los tipos de delito,09,Extorsión,Total por tipo de delito,BPCOD,,Total,Total,7100878,6655,100.0000,Total del mismo delito
+2015,I. Todos los tipos de delito,10,Amenazas,Total por tipo de delito,BPCOD,,Total,Total,2340636,2531,100.0000,Total del mismo delito
+2015,I. Todos los tipos de delito,11,Lesiones por agresión física,Total por tipo de delito,BPCOD,,Total,Total,1072610,1134,100.0000,Total del mismo delito
+2015,I. Todos los tipos de delito,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,BPCOD,,Total,Total,66128,63,100.0000,Total del mismo delito
+2015,I. Todos los tipos de delito,13,Hostigamiento o intimidación sexual,Total por tipo de delito,BPCOD,,Total,Total,629151,561,100.0000,Total del mismo delito
+2015,I. Todos los tipos de delito,14,Violación sexual,Total por tipo de delito,BPCOD,,Total,Total,76039,92,100.0000,Total del mismo delito
+2015,I. Todos los tipos de delito,15,Otros delitos,Total por tipo de delito,BPCOD,,Total,Total,89008,91,100.0000,Total del mismo delito
+2015,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,1,Pago por un servicio/producto no entregado (al consumidor),Única,1529623,1696,47.4277,Total de fraudes incluidos en la sección IV
+2015,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,2,Cheque falso o sin fondos,Única,14365,18,0.4454,Total de fraudes incluidos en la sección IV
+2015,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,3,Dinero falso,Única,493092,287,15.2889,Total de fraudes incluidos en la sección IV
+2015,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,4,Tarjeta de débito o crédito,Única,1089451,1069,33.7797,Total de fraudes incluidos en la sección IV
+2015,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,5,Por internet/correo electrónico,Única,40459,42,1.2545,Total de fraudes incluidos en la sección IV
+2015,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,6,Otro,Única,28457,31,0.8823,Total de fraudes incluidos en la sección IV
+2015,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,1,Telefónica,Única,6677177,6207,94.0331,Total de extorsiones
+2015,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,2,Laboral,Única,26780,31,0.3771,Total de extorsiones
+2015,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,3,Por internet/correo electrónico,Única,2318,7,0.0326,Total de extorsiones
+2015,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,4,En la calle,Única,213176,207,3.0021,Total de extorsiones
+2015,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,5,En negocio propio o familiar,Única,40488,52,0.5702,Total de extorsiones
+2015,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,6,Cobro de piso,Única,27611,31,0.3888,Total de extorsiones
+2015,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,7,Otro,Única,67856,61,0.9556,Total de extorsiones
+2016,I. Todos los tipos de delito,01,Robo total de vehículo,Total por tipo de delito,BPCOD,,Total,Total,493727,1106,100.0000,Total del mismo delito
+2016,I. Todos los tipos de delito,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,BPCOD,,Total,Total,3029486,7475,100.0000,Total del mismo delito
+2016,I. Todos los tipos de delito,03,Vandalismo,Total por tipo de delito,BPCOD,,Total,Total,2734911,6618,100.0000,Total del mismo delito
+2016,I. Todos los tipos de delito,04,Robo en casa habitación,Total por tipo de delito,BPCOD,,Total,Total,2044594,5799,100.0000,Total del mismo delito
+2016,I. Todos los tipos de delito,05,Robo o asalto en la calle o transporte público,Total por tipo de delito,BPCOD,,Total,Total,8052656,5818,100.0000,Total del mismo delito
+2016,I. Todos los tipos de delito,06,Robo en forma distinta a la anterior,Total por tipo de delito,BPCOD,,Total,Total,1578411,1832,100.0000,Total del mismo delito
+2016,I. Todos los tipos de delito,07,Fraude bancario,Total por tipo de delito,BPCOD,,Total,Total,2299660,2087,100.0000,Total del mismo delito
+2016,I. Todos los tipos de delito,08,Fraude al consumidor,Total por tipo de delito,BPCOD,,Total,Total,1606472,1799,100.0000,Total del mismo delito
+2016,I. Todos los tipos de delito,09,Extorsión,Total por tipo de delito,BPCOD,,Total,Total,7503477,7386,100.0000,Total del mismo delito
+2016,I. Todos los tipos de delito,10,Amenazas,Total por tipo de delito,BPCOD,,Total,Total,2409065,2742,100.0000,Total del mismo delito
+2016,I. Todos los tipos de delito,11,Lesiones por agresión física,Total por tipo de delito,BPCOD,,Total,Total,968451,982,100.0000,Total del mismo delito
+2016,I. Todos los tipos de delito,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,BPCOD,,Total,Total,79864,76,100.0000,Total del mismo delito
+2016,I. Todos los tipos de delito,13,Hostigamiento o intimidación sexual,Total por tipo de delito,BPCOD,,Total,Total,817975,707,100.0000,Total del mismo delito
+2016,I. Todos los tipos de delito,14,Violación sexual,Total por tipo de delito,BPCOD,,Total,Total,60994,82,100.0000,Total del mismo delito
+2016,I. Todos los tipos de delito,15,Otros delitos,Total por tipo de delito,BPCOD,,Total,Total,107844,121,100.0000,Total del mismo delito
+2016,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,1,Pago por un servicio/producto no entregado (al consumidor),Única,1683733,1882,43.1049,Total de fraudes incluidos en la sección IV
+2016,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,2,Cheque falso o sin fondos,Única,28339,20,0.7255,Total de fraudes incluidos en la sección IV
+2016,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,3,Dinero falso,Única,734872,452,18.8133,Total de fraudes incluidos en la sección IV
+2016,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,4,Tarjeta de débito o crédito,Única,1304484,1429,33.3958,Total de fraudes incluidos en la sección IV
+2016,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,5,Por internet/correo electrónico,Única,59407,59,1.5209,Total de fraudes incluidos en la sección IV
+2016,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,6,Otro,Única,29041,23,0.7435,Total de fraudes incluidos en la sección IV
+2016,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,1,Telefónica,Única,7170019,7008,95.5560,Total de extorsiones
+2016,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,2,Laboral,Única,29811,35,0.3973,Total de extorsiones
+2016,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,3,Por internet/correo electrónico,Única,9217,11,0.1228,Total de extorsiones
+2016,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,4,En la calle,Única,156105,185,2.0804,Total de extorsiones
+2016,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,5,En negocio propio o familiar,Única,55688,44,0.7422,Total de extorsiones
+2016,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,6,Cobro de piso,Única,19403,19,0.2586,Total de extorsiones
+2016,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,7,Otro,Única,52272,70,0.6966,Total de extorsiones
+2017,I. Todos los tipos de delito,01,Robo total de vehículo,Total por tipo de delito,BPCOD,,Total,Total,626088,1385,100.0000,Total del mismo delito
+2017,I. Todos los tipos de delito,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,BPCOD,,Total,Total,3206477,7738,100.0000,Total del mismo delito
+2017,I. Todos los tipos de delito,03,Vandalismo,Total por tipo de delito,BPCOD,,Total,Total,2835224,6692,100.0000,Total del mismo delito
+2017,I. Todos los tipos de delito,04,Robo en casa habitación,Total por tipo de delito,BPCOD,,Total,Total,2343609,6217,100.0000,Total del mismo delito
+2017,I. Todos los tipos de delito,05,Robo o asalto en la calle o transporte público,Total por tipo de delito,BPCOD,,Total,Total,9460924,6793,100.0000,Total del mismo delito
+2017,I. Todos los tipos de delito,06,Robo en forma distinta a la anterior,Total por tipo de delito,BPCOD,,Total,Total,1521317,1828,100.0000,Total del mismo delito
+2017,I. Todos los tipos de delito,07,Fraude bancario,Total por tipo de delito,BPCOD,,Total,Total,2846379,2525,100.0000,Total del mismo delito
+2017,I. Todos los tipos de delito,08,Fraude al consumidor,Total por tipo de delito,BPCOD,,Total,Total,1714304,1980,100.0000,Total del mismo delito
+2017,I. Todos los tipos de delito,09,Extorsión,Total por tipo de delito,BPCOD,,Total,Total,6590728,6401,100.0000,Total del mismo delito
+2017,I. Todos los tipos de delito,10,Amenazas,Total por tipo de delito,BPCOD,,Total,Total,2837151,2797,100.0000,Total del mismo delito
+2017,I. Todos los tipos de delito,11,Lesiones por agresión física,Total por tipo de delito,BPCOD,,Total,Total,1004432,1048,100.0000,Total del mismo delito
+2017,I. Todos los tipos de delito,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,BPCOD,,Total,Total,85089,64,100.0000,Total del mismo delito
+2017,I. Todos los tipos de delito,13,Hostigamiento o intimidación sexual,Total por tipo de delito,BPCOD,,Total,Total,1244240,1037,100.0000,Total del mismo delito
+2017,I. Todos los tipos de delito,14,Violación sexual,Total por tipo de delito,BPCOD,,Total,Total,65954,82,100.0000,Total del mismo delito
+2017,I. Todos los tipos de delito,15,Otros delitos,Total por tipo de delito,BPCOD,,Total,Total,67615,87,100.0000,Total del mismo delito
+2017,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,1,Pago por un servicio/producto no entregado (al consumidor),Única,1852462,2081,40.6181,Total de fraudes incluidos en la sección IV
+2017,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,2,Cheque falso o sin fondos,Única,36310,23,0.7962,Total de fraudes incluidos en la sección IV
+2017,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,3,Dinero falso,Única,683700,402,14.9912,Total de fraudes incluidos en la sección IV
+2017,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,4,Tarjeta de débito o crédito,Única,1763256,1797,38.6621,Total de fraudes incluidos en la sección IV
+2017,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,5,Por internet/correo electrónico,Única,116769,111,2.5603,Total de fraudes incluidos en la sección IV
+2017,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,6,Otro,Única,70005,69,1.5350,Total de fraudes incluidos en la sección IV
+2017,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,1,Telefónica,Única,6139618,6024,93.1554,Total de extorsiones
+2017,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,2,Laboral,Única,19650,30,0.2981,Total de extorsiones
+2017,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,3,Por internet/correo electrónico,Única,6356,5,0.0964,Total de extorsiones
+2017,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,4,En la calle,Única,243583,195,3.6958,Total de extorsiones
+2017,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,5,En negocio propio o familiar,Única,73141,40,1.1098,Total de extorsiones
+2017,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,6,Cobro de piso,Única,20485,28,0.3108,Total de extorsiones
+2017,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,7,Otro,Única,71887,63,1.0907,Total de extorsiones
+2018,I. Todos los tipos de delito,01,Robo total de vehículo,Total por tipo de delito,BPCOD,,Total,Total,605817,1443,100.0000,Total del mismo delito
+2018,I. Todos los tipos de delito,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,BPCOD,,Total,Total,3185166,7764,100.0000,Total del mismo delito
+2018,I. Todos los tipos de delito,03,Vandalismo,Total por tipo de delito,BPCOD,,Total,Total,2729220,6808,100.0000,Total del mismo delito
+2018,I. Todos los tipos de delito,04,Robo en casa habitación,Total por tipo de delito,BPCOD,,Total,Total,2269882,6296,100.0000,Total del mismo delito
+2018,I. Todos los tipos de delito,05,Robo o asalto en la calle o transporte público,Total por tipo de delito,BPCOD,,Total,Total,9415088,6419,100.0000,Total del mismo delito
+2018,I. Todos los tipos de delito,06,Robo en forma distinta a la anterior,Total por tipo de delito,BPCOD,,Total,Total,1650651,1862,100.0000,Total del mismo delito
+2018,I. Todos los tipos de delito,07,Fraude bancario,Total por tipo de delito,BPCOD,,Total,Total,2837208,2869,100.0000,Total del mismo delito
+2018,I. Todos los tipos de delito,08,Fraude al consumidor,Total por tipo de delito,BPCOD,,Total,Total,1878865,1984,100.0000,Total del mismo delito
+2018,I. Todos los tipos de delito,09,Extorsión,Total por tipo de delito,BPCOD,,Total,Total,5716346,5722,100.0000,Total del mismo delito
+2018,I. Todos los tipos de delito,10,Amenazas,Total por tipo de delito,BPCOD,,Total,Total,2842523,2917,100.0000,Total del mismo delito
+2018,I. Todos los tipos de delito,11,Lesiones por agresión física,Total por tipo de delito,BPCOD,,Total,Total,1032059,1007,100.0000,Total del mismo delito
+2018,I. Todos los tipos de delito,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,BPCOD,,Total,Total,53738,62,100.0000,Total del mismo delito
+2018,I. Todos los tipos de delito,13,Hostigamiento o intimidación sexual,Total por tipo de delito,BPCOD,,Total,Total,1322218,997,100.0000,Total del mismo delito
+2018,I. Todos los tipos de delito,14,Violación sexual,Total por tipo de delito,BPCOD,,Total,Total,71020,92,100.0000,Total del mismo delito
+2018,I. Todos los tipos de delito,15,Otros delitos,Total por tipo de delito,BPCOD,,Total,Total,154509,114,100.0000,Total del mismo delito
+2018,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,1,Pago por un servicio/producto no entregado (al consumidor),Única,2034442,2120,43.1385,Total de fraudes incluidos en la sección IV
+2018,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,2,Cheque falso o sin fondos,Única,19105,19,0.4051,Total de fraudes incluidos en la sección IV
+2018,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,3,Dinero falso,Única,302336,314,6.4108,Total de fraudes incluidos en la sección IV
+2018,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,4,Tarjeta de débito o crédito,Única,2093200,2153,44.3844,Total de fraudes incluidos en la sección IV
+2018,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,5,Por internet/correo electrónico,Única,209658,198,4.4456,Total de fraudes incluidos en la sección IV
+2018,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,6,Otro,Única,40906,30,0.8674,Total de fraudes incluidos en la sección IV
+2018,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,1,Telefónica,Única,5235399,5247,91.5865,Total de extorsiones
+2018,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,2,Laboral,Única,72542,50,1.2690,Total de extorsiones
+2018,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,3,Por internet/correo electrónico,Única,28330,23,0.4956,Total de extorsiones
+2018,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,4,En la calle,Única,206087,226,3.6052,Total de extorsiones
+2018,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,5,En negocio propio o familiar,Única,46689,51,0.8168,Total de extorsiones
+2018,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,6,Cobro de piso,Única,18559,24,0.3247,Total de extorsiones
+2018,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,7,Otro,Única,79132,79,1.3843,Total de extorsiones
+2019,I. Todos los tipos de delito,01,Robo total de vehículo,Total por tipo de delito,BPCOD,,Total,Total,645618,1303,100.0000,Total del mismo delito
+2019,I. Todos los tipos de delito,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,BPCOD,,Total,Total,2817066,6362,100.0000,Total del mismo delito
+2019,I. Todos los tipos de delito,03,Vandalismo,Total por tipo de delito,BPCOD,,Total,Total,2317653,5441,100.0000,Total del mismo delito
+2019,I. Todos los tipos de delito,04,Robo en casa habitación,Total por tipo de delito,BPCOD,,Total,Total,1855885,4894,100.0000,Total del mismo delito
+2019,I. Todos los tipos de delito,05,Robo o asalto en la calle o transporte público,Total por tipo de delito,BPCOD,,Total,Total,8176991,5400,100.0000,Total del mismo delito
+2019,I. Todos los tipos de delito,06,Robo en forma distinta a la anterior,Total por tipo de delito,BPCOD,,Total,Total,1022807,1117,100.0000,Total del mismo delito
+2019,I. Todos los tipos de delito,07,Fraude bancario,Total por tipo de delito,BPCOD,,Total,Total,2849823,2658,100.0000,Total del mismo delito
+2019,I. Todos los tipos de delito,08,Fraude al consumidor,Total por tipo de delito,BPCOD,,Total,Total,1726996,1770,100.0000,Total del mismo delito
+2019,I. Todos los tipos de delito,09,Extorsión,Total por tipo de delito,BPCOD,,Total,Total,4617275,4212,100.0000,Total del mismo delito
+2019,I. Todos los tipos de delito,10,Amenazas,Total por tipo de delito,BPCOD,,Total,Total,2779312,2611,100.0000,Total del mismo delito
+2019,I. Todos los tipos de delito,11,Lesiones por agresión física,Total por tipo de delito,BPCOD,,Total,Total,1102457,961,100.0000,Total del mismo delito
+2019,I. Todos los tipos de delito,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,BPCOD,,Total,Total,107274,73,100.0000,Total del mismo delito
+2019,I. Todos los tipos de delito,13,Hostigamiento o intimidación sexual,Total por tipo de delito,BPCOD,,Total,Total,2374861,1572,100.0000,Total del mismo delito
+2019,I. Todos los tipos de delito,14,Violación sexual,Total por tipo de delito,BPCOD,,Total,Total,96752,102,100.0000,Total del mismo delito
+2019,I. Todos los tipos de delito,15,Otros delitos,Total por tipo de delito,BPCOD,,Total,Total,100120,99,100.0000,Total del mismo delito
+2019,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,1,Pago por un servicio/producto no entregado (al consumidor),Única,1961679,1939,42.8612,Total de fraudes incluidos en la sección IV
+2019,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,2,Cheque falso o sin fondos,Única,30724,25,0.6713,Total de fraudes incluidos en la sección IV
+2019,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,3,Dinero falso,Única,304691,186,6.6573,Total de fraudes incluidos en la sección IV
+2019,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,4,Tarjeta de débito o crédito,Única,1988321,1979,43.4433,Total de fraudes incluidos en la sección IV
+2019,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,5,Por internet/correo electrónico,Única,208360,203,4.5525,Total de fraudes incluidos en la sección IV
+2019,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,6,Otro,Única,61362,71,1.3407,Total de fraudes incluidos en la sección IV
+2019,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,1,Telefónica,Única,4103683,3767,88.8767,Total de extorsiones
+2019,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,2,Laboral,Única,59496,45,1.2886,Total de extorsiones
+2019,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,3,Por internet/correo electrónico,Única,30568,24,0.6620,Total de extorsiones
+2019,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,4,En la calle,Única,216676,191,4.6927,Total de extorsiones
+2019,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,5,En negocio propio o familiar,Única,87798,53,1.9015,Total de extorsiones
+2019,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,6,Cobro de piso,Única,33625,36,0.7282,Total de extorsiones
+2019,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,7,Otro,Única,50786,70,1.0999,Total de extorsiones
+2020,I. Todos los tipos de delito,01,Robo total de vehículo,Total por tipo de delito,BPCOD,,Total,Total,473640,997,100.0000,Total del mismo delito
+2020,I. Todos los tipos de delito,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,BPCOD,,Total,Total,2455282,5769,100.0000,Total del mismo delito
+2020,I. Todos los tipos de delito,03,Vandalismo,Total por tipo de delito,BPCOD,,Total,Total,1807549,4515,100.0000,Total del mismo delito
+2020,I. Todos los tipos de delito,04,Robo en casa habitación,Total por tipo de delito,BPCOD,,Total,Total,1698038,4552,100.0000,Total del mismo delito
+2020,I. Todos los tipos de delito,05,Robo o asalto en la calle o transporte público,Total por tipo de delito,BPCOD,,Total,Total,6230798,4554,100.0000,Total del mismo delito
+2020,I. Todos los tipos de delito,06,Robo en forma distinta a la anterior,Total por tipo de delito,BPCOD,,Total,Total,1397146,1535,100.0000,Total del mismo delito
+2020,I. Todos los tipos de delito,07,Fraude bancario,Total por tipo de delito,BPCOD,,Total,Total,3200653,3106,100.0000,Total del mismo delito
+2020,I. Todos los tipos de delito,08,Fraude al consumidor,Total por tipo de delito,BPCOD,,Total,Total,2131777,2257,100.0000,Total del mismo delito
+2020,I. Todos los tipos de delito,09,Extorsión,Total por tipo de delito,BPCOD,,Total,Total,4660898,4446,100.0000,Total del mismo delito
+2020,I. Todos los tipos de delito,10,Amenazas,Total por tipo de delito,BPCOD,,Total,Total,2672001,2814,100.0000,Total del mismo delito
+2020,I. Todos los tipos de delito,11,Lesiones por agresión física,Total por tipo de delito,BPCOD,,Total,Total,928471,949,100.0000,Total del mismo delito
+2020,I. Todos los tipos de delito,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,BPCOD,,Total,Total,54440,63,100.0000,Total del mismo delito
+2020,I. Todos los tipos de delito,13,Hostigamiento o intimidación sexual,Total por tipo de delito,BPCOD,,Total,Total,1541122,1381,100.0000,Total del mismo delito
+2020,I. Todos los tipos de delito,14,Violación sexual,Total por tipo de delito,BPCOD,,Total,Total,79364,95,100.0000,Total del mismo delito
+2020,I. Todos los tipos de delito,15,Otros delitos,Total por tipo de delito,BPCOD,,Total,Total,115573,123,100.0000,Total del mismo delito
+2020,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,1,Pago por un servicio/producto no entregado (al consumidor),Única,2315360,2405,43.4204,Total de fraudes incluidos en la sección IV
+2020,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,2,Cheque falso o sin fondos,Única,21857,15,0.4099,Total de fraudes incluidos en la sección IV
+2020,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,3,Dinero falso,Única,424673,229,7.9640,Total de fraudes incluidos en la sección IV
+2020,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,4,Tarjeta de débito o crédito,Única,2249707,2374,42.1892,Total de fraudes incluidos en la sección IV
+2020,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,5,Por internet/correo electrónico,Única,215976,227,4.0502,Total de fraudes incluidos en la sección IV
+2020,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,6,Otro,Única,85278,99,1.5992,Total de fraudes incluidos en la sección IV
+2020,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,1,Telefónica,Única,4229131,4010,90.7364,Total de extorsiones
+2020,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,2,Laboral,Única,30393,33,0.6521,Total de extorsiones
+2020,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,3,Por internet/correo electrónico,Única,29963,41,0.6429,Total de extorsiones
+2020,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,4,En la calle,Única,182199,191,3.9091,Total de extorsiones
+2020,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,5,En negocio propio o familiar,Única,53911,52,1.1567,Total de extorsiones
+2020,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,6,Cobro de piso,Única,29102,33,0.6244,Total de extorsiones
+2020,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,7,Otro,Única,75182,67,1.6130,Total de extorsiones
+2021,I. Todos los tipos de delito,01,Robo total de vehículo,Total por tipo de delito,BPCOD,,Total,Total,469082,965,100.0000,Total del mismo delito
+2021,I. Todos los tipos de delito,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,BPCOD,,Total,Total,2560965,5597,100.0000,Total del mismo delito
+2021,I. Todos los tipos de delito,03,Vandalismo,Total por tipo de delito,BPCOD,,Total,Total,1906423,4514,100.0000,Total del mismo delito
+2021,I. Todos los tipos de delito,04,Robo en casa habitación,Total por tipo de delito,BPCOD,,Total,Total,1689483,4439,100.0000,Total del mismo delito
+2021,I. Todos los tipos de delito,05,Robo o asalto en la calle o transporte público,Total por tipo de delito,BPCOD,,Total,Total,6012888,4019,100.0000,Total del mismo delito
+2021,I. Todos los tipos de delito,06,Robo en forma distinta a la anterior,Total por tipo de delito,BPCOD,,Total,Total,1273791,1521,100.0000,Total del mismo delito
+2021,I. Todos los tipos de delito,07,Fraude bancario,Total por tipo de delito,BPCOD,,Total,Total,3180266,2976,100.0000,Total del mismo delito
+2021,I. Todos los tipos de delito,08,Fraude al consumidor,Total por tipo de delito,BPCOD,,Total,Total,2215722,2262,100.0000,Total del mismo delito
+2021,I. Todos los tipos de delito,09,Extorsión,Total por tipo de delito,BPCOD,,Total,Total,4910206,4612,100.0000,Total del mismo delito
+2021,I. Todos los tipos de delito,10,Amenazas,Total por tipo de delito,BPCOD,,Total,Total,2578845,2611,100.0000,Total del mismo delito
+2021,I. Todos los tipos de delito,11,Lesiones por agresión física,Total por tipo de delito,BPCOD,,Total,Total,1005025,939,100.0000,Total del mismo delito
+2021,I. Todos los tipos de delito,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,BPCOD,,Total,Total,49197,58,100.0000,Total del mismo delito
+2021,I. Todos los tipos de delito,13,Hostigamiento o intimidación sexual,Total por tipo de delito,BPCOD,,Total,Total,1998457,1431,100.0000,Total del mismo delito
+2021,I. Todos los tipos de delito,14,Violación sexual,Total por tipo de delito,BPCOD,,Total,Total,106955,99,100.0000,Total del mismo delito
+2021,I. Todos los tipos de delito,15,Otros delitos,Total por tipo de delito,BPCOD,,Total,Total,73970,101,100.0000,Total del mismo delito
+2021,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,1,Pago por un servicio/producto no entregado (al consumidor),Única,2342027,2393,43.4031,Total de fraudes incluidos en la sección IV
+2021,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,2,Cheque falso o sin fondos,Única,22510,16,0.4172,Total de fraudes incluidos en la sección IV
+2021,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,3,Dinero falso,Única,321040,217,5.9496,Total de fraudes incluidos en la sección IV
+2021,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,4,Tarjeta de débito o crédito,Única,2435274,2332,45.1312,Total de fraudes incluidos en la sección IV
+2021,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,5,Por internet/correo electrónico,Única,201576,211,3.7357,Total de fraudes incluidos en la sección IV
+2021,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,6,Otro,Única,71371,66,1.3227,Total de fraudes incluidos en la sección IV
+2021,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,1,Telefónica,Única,4432202,4203,90.2651,Total de extorsiones
+2021,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,2,Laboral,Única,24434,31,0.4976,Total de extorsiones
+2021,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,3,Por internet/correo electrónico,Única,33064,39,0.6734,Total de extorsiones
+2021,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,4,En la calle,Única,221064,175,4.5021,Total de extorsiones
+2021,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,5,En negocio propio o familiar,Única,38177,46,0.7775,Total de extorsiones
+2021,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,6,Cobro de piso,Única,65677,37,1.3376,Total de extorsiones
+2021,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,7,Otro,Única,83051,66,1.6914,Total de extorsiones
+2022,I. Todos los tipos de delito,01,Robo total de vehículo,Total por tipo de delito,BPCOD,,Total,Total,446905,925,100.0000,Total del mismo delito
+2022,I. Todos los tipos de delito,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,BPCOD,,Total,Total,2244101,5133,100.0000,Total del mismo delito
+2022,I. Todos los tipos de delito,03,Vandalismo,Total por tipo de delito,BPCOD,,Total,Total,1774162,4147,100.0000,Total del mismo delito
+2022,I. Todos los tipos de delito,04,Robo en casa habitación,Total por tipo de delito,BPCOD,,Total,Total,1593137,4134,100.0000,Total del mismo delito
+2022,I. Todos los tipos de delito,05,Robo o asalto en la calle o transporte público,Total por tipo de delito,BPCOD,,Total,Total,5318660,3819,100.0000,Total del mismo delito
+2022,I. Todos los tipos de delito,06,Robo en forma distinta a la anterior,Total por tipo de delito,BPCOD,,Total,Total,1267294,1471,100.0000,Total del mismo delito
+2022,I. Todos los tipos de delito,07,Fraude bancario,Total por tipo de delito,BPCOD,,Total,Total,3190116,3046,100.0000,Total del mismo delito
+2022,I. Todos los tipos de delito,08,Fraude al consumidor,Total por tipo de delito,BPCOD,,Total,Total,2204174,2299,100.0000,Total del mismo delito
+2022,I. Todos los tipos de delito,09,Extorsión,Total por tipo de delito,BPCOD,,Total,Total,4726724,4616,100.0000,Total del mismo delito
+2022,I. Todos los tipos de delito,10,Amenazas,Total por tipo de delito,BPCOD,,Total,Total,2757624,2778,100.0000,Total del mismo delito
+2022,I. Todos los tipos de delito,11,Lesiones por agresión física,Total por tipo de delito,BPCOD,,Total,Total,1017768,908,100.0000,Total del mismo delito
+2022,I. Todos los tipos de delito,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,BPCOD,,Total,Total,57030,65,100.0000,Total del mismo delito
+2022,I. Todos los tipos de delito,13,Hostigamiento o intimidación sexual,Total por tipo de delito,BPCOD,,Total,Total,1793600,1538,100.0000,Total del mismo delito
+2022,I. Todos los tipos de delito,14,Violación sexual,Total por tipo de delito,BPCOD,,Total,Total,94241,106,100.0000,Total del mismo delito
+2022,I. Todos los tipos de delito,15,Otros delitos,Total por tipo de delito,BPCOD,,Total,Total,122904,150,100.0000,Total del mismo delito
+2022,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,1,Pago por un servicio/producto no entregado (al consumidor),Única,2361782,2453,43.7830,Total de fraudes incluidos en la sección IV
+2022,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,2,Cheque falso o sin fondos,Única,20124,14,0.3731,Total de fraudes incluidos en la sección IV
+2022,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,3,Dinero falso,Única,269658,171,4.9990,Total de fraudes incluidos en la sección IV
+2022,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,4,Tarjeta de débito o crédito,Única,2441178,2452,45.2549,Total de fraudes incluidos en la sección IV
+2022,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,5,Por internet/correo electrónico,Única,243215,199,4.5087,Total de fraudes incluidos en la sección IV
+2022,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,6,Otro,Única,54316,50,1.0069,Total de fraudes incluidos en la sección IV
+2022,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,1,Telefónica,Única,4258130,4116,90.0863,Total de extorsiones
+2022,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,2,Laboral,Única,32512,44,0.6878,Total de extorsiones
+2022,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,3,Por internet/correo electrónico,Única,51623,57,1.0922,Total de extorsiones
+2022,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,4,En la calle,Única,249201,240,5.2722,Total de extorsiones
+2022,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,5,En negocio propio o familiar,Única,36574,46,0.7738,Total de extorsiones
+2022,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,6,Cobro de piso,Única,33211,29,0.7026,Total de extorsiones
+2022,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,7,Otro,Única,59999,75,1.2694,Total de extorsiones
+2023,I. Todos los tipos de delito,01,Robo total de vehículo,Total por tipo de delito,BPCOD,,Total,Total,532701,1035,100.0000,Total del mismo delito
+2023,I. Todos los tipos de delito,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,BPCOD,,Total,Total,2741397,5712,100.0000,Total del mismo delito
+2023,I. Todos los tipos de delito,03,Vandalismo,Total por tipo de delito,BPCOD,,Total,Total,2139424,4732,100.0000,Total del mismo delito
+2023,I. Todos los tipos de delito,04,Robo en casa habitación,Total por tipo de delito,BPCOD,,Total,Total,1637965,4084,100.0000,Total del mismo delito
+2023,I. Todos los tipos de delito,05,Robo o asalto en la calle o transporte público,Total por tipo de delito,BPCOD,,Total,Total,6136712,3951,100.0000,Total del mismo delito
+2023,I. Todos los tipos de delito,06,Robo en forma distinta a la anterior,Total por tipo de delito,BPCOD,,Total,Total,1513412,1608,100.0000,Total del mismo delito
+2023,I. Todos los tipos de delito,07,Fraude bancario,Total por tipo de delito,BPCOD,,Total,Total,3587819,3278,100.0000,Total del mismo delito
+2023,I. Todos los tipos de delito,08,Fraude al consumidor,Total por tipo de delito,BPCOD,,Total,Total,2959404,2788,100.0000,Total del mismo delito
+2023,I. Todos los tipos de delito,09,Extorsión,Total por tipo de delito,BPCOD,,Total,Total,4902122,4468,100.0000,Total del mismo delito
+2023,I. Todos los tipos de delito,10,Amenazas,Total por tipo de delito,BPCOD,,Total,Total,3146232,2866,100.0000,Total del mismo delito
+2023,I. Todos los tipos de delito,11,Lesiones por agresión física,Total por tipo de delito,BPCOD,,Total,Total,1508588,1256,100.0000,Total del mismo delito
+2023,I. Todos los tipos de delito,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,BPCOD,,Total,Total,72559,67,100.0000,Total del mismo delito
+2023,I. Todos los tipos de delito,13,Hostigamiento o intimidación sexual,Total por tipo de delito,BPCOD,,Total,Total,2285064,1521,100.0000,Total del mismo delito
+2023,I. Todos los tipos de delito,14,Violación sexual,Total por tipo de delito,BPCOD,,Total,Total,96946,94,100.0000,Total del mismo delito
+2023,I. Todos los tipos de delito,15,Otros delitos,Total por tipo de delito,BPCOD,,Total,Total,162768,154,100.0000,Total del mismo delito
+2023,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,1,Pago por un servicio/producto no entregado (al consumidor),Única,3202141,2990,48.9084,Total de fraudes incluidos en la sección IV
+2023,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,2,Cheque falso o sin fondos,Única,18511,17,0.2827,Total de fraudes incluidos en la sección IV
+2023,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,3,Dinero falso,Única,264969,149,4.0470,Total de fraudes incluidos en la sección IV
+2023,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,4,Tarjeta de débito o crédito,Única,2663873,2556,40.6871,Total de fraudes incluidos en la sección IV
+2023,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,5,Por internet/correo electrónico,Única,329826,283,5.0376,Total de fraudes incluidos en la sección IV
+2023,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,6,Otro,Única,60149,66,0.9187,Total de fraudes incluidos en la sección IV
+2023,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,1,Telefónica,Única,4194543,3893,85.5659,Total de extorsiones
+2023,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,2,Laboral,Única,48198,43,0.9832,Total de extorsiones
+2023,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,3,Por internet/correo electrónico,Única,88319,90,1.8016,Total de extorsiones
+2023,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,4,En la calle,Única,342993,263,6.9968,Total de extorsiones
+2023,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,5,En negocio propio o familiar,Única,83721,54,1.7079,Total de extorsiones
+2023,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,6,Cobro de piso,Única,36381,35,0.7421,Total de extorsiones
+2023,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue...?,BP5_1,7,Otro,Única,65073,64,1.3274,Total de extorsiones
+2024,I. Todos los tipos de delito,01,Robo total de vehículo,Total por tipo de delito,BPCOD,,Total,Total,526230,1028,100.0000,Total del mismo delito
+2024,I. Todos los tipos de delito,02,"Robo de accesorios, refacciones o herramientas de vehículo",Total por tipo de delito,BPCOD,,Total,Total,2686135,5782,100.0000,Total del mismo delito
+2024,I. Todos los tipos de delito,03,Vandalismo,Total por tipo de delito,BPCOD,,Total,Total,2145654,4799,100.0000,Total del mismo delito
+2024,I. Todos los tipos de delito,04,Robo en casa habitación,Total por tipo de delito,BPCOD,,Total,Total,1535043,3909,100.0000,Total del mismo delito
+2024,I. Todos los tipos de delito,05,Robo o asalto en la calle o transporte público,Total por tipo de delito,BPCOD,,Total,Total,5750434,4014,100.0000,Total del mismo delito
+2024,I. Todos los tipos de delito,06,Robo en forma distinta a la anterior,Total por tipo de delito,BPCOD,,Total,Total,1236012,1298,100.0000,Total del mismo delito
+2024,I. Todos los tipos de delito,07,Fraude bancario,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_1,1,"Internet o medios electrónicos (redes sociales, correo electrónico, banca electrónica, etcétera)",Múltiple,3091750,2993,77.0617,Total de fraude bancario
+2024,I. Todos los tipos de delito,07,Fraude bancario,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_2,2,Llamada telefónica,Múltiple,323971,318,8.0750,Total de fraude bancario
+2024,I. Todos los tipos de delito,07,Fraude bancario,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_3,3,Contacto presencial,Múltiple,537741,406,13.4032,Total de fraude bancario
+2024,I. Todos los tipos de delito,07,Fraude bancario,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_4,4,Otro,Múltiple,50808,33,1.2664,Total de fraude bancario
+2024,I. Todos los tipos de delito,07,Fraude bancario,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_9,9,No sabe / no responde,Múltiple,47951,45,1.1952,Total de fraude bancario
+2024,I. Todos los tipos de delito,07,Fraude bancario,Total por tipo de delito,BPCOD,,Total,Total,4012043,3754,100.0000,Total del mismo delito
+2024,I. Todos los tipos de delito,08,Fraude al consumidor,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_1,1,"Internet o medios electrónicos (redes sociales, correo electrónico, banca electrónica, etcétera)",Múltiple,2258830,2182,69.6386,Total de fraude al consumidor
+2024,I. Todos los tipos de delito,08,Fraude al consumidor,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_2,2,Llamada telefónica,Múltiple,302634,261,9.3301,Total de fraude al consumidor
+2024,I. Todos los tipos de delito,08,Fraude al consumidor,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_3,3,Contacto presencial,Múltiple,747712,676,23.0516,Total de fraude al consumidor
+2024,I. Todos los tipos de delito,08,Fraude al consumidor,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_4,4,Otro,Múltiple,5270,6,0.1625,Total de fraude al consumidor
+2024,I. Todos los tipos de delito,08,Fraude al consumidor,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_9,9,No sabe / no responde,Múltiple,3667,4,0.1131,Total de fraude al consumidor
+2024,I. Todos los tipos de delito,08,Fraude al consumidor,Total por tipo de delito,BPCOD,,Total,Total,3243646,3070,100.0000,Total del mismo delito
+2024,I. Todos los tipos de delito,09,Extorsión,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_1,1,"Internet o medios electrónicos (redes sociales, correo electrónico, banca electrónica, etcétera)",Múltiple,343963,327,6.0134,Total de extorsión
+2024,I. Todos los tipos de delito,09,Extorsión,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_2,2,Llamada telefónica,Múltiple,4895851,4619,85.5921,Total de extorsión
+2024,I. Todos los tipos de delito,09,Extorsión,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_3,3,Contacto presencial,Múltiple,523656,447,9.1549,Total de extorsión
+2024,I. Todos los tipos de delito,09,Extorsión,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_4,4,Otro,Múltiple,12459,9,0.2178,Total de extorsión
+2024,I. Todos los tipos de delito,09,Extorsión,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_9,9,No sabe / no responde,Múltiple,32717,27,0.5720,Total de extorsión
+2024,I. Todos los tipos de delito,09,Extorsión,Total por tipo de delito,BPCOD,,Total,Total,5719981,5334,100.0000,Total del mismo delito
+2024,I. Todos los tipos de delito,10,Amenazas,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_1,1,"Internet o medios electrónicos (redes sociales, correo electrónico, banca electrónica, etcétera)",Múltiple,699379,493,15.5904,Total de amenazas
+2024,I. Todos los tipos de delito,10,Amenazas,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_2,2,Llamada telefónica,Múltiple,1103824,1037,24.6061,Total de amenazas
+2024,I. Todos los tipos de delito,10,Amenazas,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_3,3,Contacto presencial,Múltiple,2757727,2486,61.4745,Total de amenazas
+2024,I. Todos los tipos de delito,10,Amenazas,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_4,4,Otro,Múltiple,35787,39,0.7978,Total de amenazas
+2024,I. Todos los tipos de delito,10,Amenazas,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_9,9,No sabe / no responde,Múltiple,32887,20,0.7331,Total de amenazas
+2024,I. Todos los tipos de delito,10,Amenazas,Total por tipo de delito,BPCOD,,Total,Total,4485971,3942,100.0000,Total del mismo delito
+2024,I. Todos los tipos de delito,11,Lesiones por agresión física,Total por tipo de delito,BPCOD,,Total,Total,1523988,1316,100.0000,Total del mismo delito
+2024,I. Todos los tipos de delito,12,Secuestro para exigir dinero o bienes,Total por tipo de delito,BPCOD,,Total,Total,75698,76,100.0000,Total del mismo delito
+2024,I. Todos los tipos de delito,13,Hostigamiento o intimidación sexual,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_1,1,"Internet o medios electrónicos (redes sociales, correo electrónico, banca electrónica, etcétera)",Múltiple,59181,65,2.6452,Total de hostigamiento o intimidación sexual
+2024,I. Todos los tipos de delito,13,Hostigamiento o intimidación sexual,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_2,2,Llamada telefónica,Múltiple,21789,25,0.9739,Total de hostigamiento o intimidación sexual
+2024,I. Todos los tipos de delito,13,Hostigamiento o intimidación sexual,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_3,3,Contacto presencial,Múltiple,2173448,1531,97.1456,Total de hostigamiento o intimidación sexual
+2024,I. Todos los tipos de delito,13,Hostigamiento o intimidación sexual,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_4,4,Otro,Múltiple,8646,11,0.3864,Total de hostigamiento o intimidación sexual
+2024,I. Todos los tipos de delito,13,Hostigamiento o intimidación sexual,1.5a ¿El (DELITO) se realizó por medio de...?,BP1_5A_9,9,No sabe / no responde,Múltiple,1140,3,0.0510,Total de hostigamiento o intimidación sexual
+2024,I. Todos los tipos de delito,13,Hostigamiento o intimidación sexual,Total por tipo de delito,BPCOD,,Total,Total,2237310,1606,100.0000,Total del mismo delito
+2024,I. Todos los tipos de delito,14,Violación sexual,Total por tipo de delito,BPCOD,,Total,Total,167340,135,100.0000,Total del mismo delito
+2024,I. Todos los tipos de delito,15,Otros delitos,Total por tipo de delito,BPCOD,,Total,Total,250390,217,100.0000,Total del mismo delito
+2024,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,1,Pago por un servicio/producto no entregado (al consumidor),Única,3511814,3317,48.4008,Total de fraudes incluidos en la sección IV
+2024,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,2,Cheque falso o sin fondos,Única,13253,12,0.1827,Total de fraudes incluidos en la sección IV
+2024,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,3,Dinero falso,Única,211590,157,2.9162,Total de fraudes incluidos en la sección IV
+2024,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,4,Tarjeta de débito o crédito,Única,3100032,2967,42.7255,Total de fraudes incluidos en la sección IV
+2024,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,5,Por internet/correo electrónico,Única,351065,323,4.8385,Total de fraudes incluidos en la sección IV
+2024,IV. Fraude,07-08,Fraude,4.1 ¿Qué tipo de fraude fue?,BP4_1,6,Otro,Única,53559,42,0.7382,Total de fraudes incluidos en la sección IV
+2024,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue de tipo...?,BP5_1,1,Laboral,Única,595196,559,10.4056,Total de extorsiones
+2024,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue de tipo...?,BP5_1,2,Cobro de piso,Única,982361,935,17.1742,Total de extorsiones
+2024,V. Extorsión,09,Extorsión,5.1 ¿La extorsión fue de tipo...?,BP5_1,3,Otro,Única,4142424,3840,72.4202,Total de extorsiones
+2024,V. Extorsión,09,Extorsión,5.1a ¿La extorsión sucedió en...?,BP5_1A_1,1,En su casa,Múltiple,137638,124,26.2840,Extorsiones con contacto presencial
+2024,V. Extorsión,09,Extorsión,5.1a ¿La extorsión sucedió en...?,BP5_1A_2,2,En la calle,Múltiple,271865,214,51.9167,Extorsiones con contacto presencial
+2024,V. Extorsión,09,Extorsión,5.1a ¿La extorsión sucedió en...?,BP5_1A_3,3,En negocio propio o familiar,Múltiple,81510,81,15.5656,Extorsiones con contacto presencial
+2024,V. Extorsión,09,Extorsión,5.1a ¿La extorsión sucedió en...?,BP5_1A_4,4,Otro lugar,Múltiple,45430,37,8.6755,Extorsiones con contacto presencial
