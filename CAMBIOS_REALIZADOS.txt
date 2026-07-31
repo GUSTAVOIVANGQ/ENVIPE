@@ -1,0 +1,50 @@
+CAMBIOS REALIZADOS
+==================
+
+1. Se conservan las preguntas históricas del módulo para todas las ediciones,
+   incluida ENVIPE 2025:
+
+   - Fraude: BP4_1, "4.1 ¿Qué tipo de fraude fue?"
+   - Extorsión 2011-2024: BP5_1, "5.1 ¿La extorsión fue...?"
+   - Extorsión 2025: BP5_1, "5.1 ¿La extorsión fue de tipo...?"
+
+2. Para ENVIPE 2025 se agrega, sin reemplazar lo anterior, un segundo bloque
+   derivado de BP1_5A_1 a BP1_5A_4:
+
+   - 1.5a ¿El (DELITO) se realizó por medio de...?
+
+3. Se agregaron dos columnas de procedencia de pregunta:
+
+   - cuest_modulo_envipe_7
+   - cuest_modulo_envipe2025_2
+
+   En cada fila sólo una familia contiene la pregunta y la otra contiene NA.
+   La excepción es el fraude bancario BPCOD 06 de ENVIPE 2011-2012, que no
+   proviene de BP4_1 y conserva NA en ambas columnas.
+
+4. La pregunta 1.5a se clasifica de forma mutuamente excluyente con prioridad:
+
+   internet > llamada > contacto presencial > otro > sin medio sustantivo.
+
+5. El validador separa las sumas históricas y las de 1.5a. No suma ambos
+   bloques juntos, porque cada bloque reproduce por separado total_delito.
+
+PRUEBAS EJECUTADAS
+------------------
+
+- Compilación de main.py, envipe_core.py y validar_inegi.py.
+- Ejecución completa con un DBF sintético ENVIPE 2025.
+- Verificación de cierres:
+
+  Fraude:
+  5,350,580 + 546,180 + 1,254,166 + 53,145 + 51,618 = 7,255,689
+
+  Extorsión:
+  343,963 + 4,835,160 + 497,338 + 10,803 + 32,717 = 5,719,981
+
+- Prueba del validador para confirmar que el bloque histórico y el bloque
+  de 1.5a cierran por separado.
+
+No se ejecutó contra el TMod_Vic.dbf oficial real porque no venía incluido en
+los archivos recibidos. El CSV de ejemplo combina el CSV histórico recibido
+con los valores 1.5a acordados, sólo para mostrar la estructura esperada.
